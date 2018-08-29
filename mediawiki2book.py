@@ -70,13 +70,10 @@ print("* Adding metadata header")
 header=open(resources_dir+"/header.yaml", "r").read() # header to string
 
 # Change date to today
-
 day = time.strftime("%d")
 month = time.strftime("%B")
 year = time.strftime("%Y")
-
 todaydate = day+" "+month+", "+year
-
 header = header.replace("$DATE", todaydate)
 
 # Prepend to markdown file
@@ -86,20 +83,26 @@ with open(md_file, 'w') as modified: modified.write(header + "\n" + data)
 # Convert to output (default pdf) using modified eisvogel template (https://github.com/Wandmalfarbe/pandoc-latex-template)
 print("* Converting to", output_format, "(this may take a while)")
 
-pandoc_args = [md_file, "-o", buildsystem_dir+"/"+output_file, "--toc", "--template", "firevogel", "--listings", "--pdf-engine=xelatex", "--top-level-division=chapter", "--toc-depth=3"]
+pandoc_args = [md_file, "-o", buildsystem_dir+"/"+output_file, "--toc", "--top-level-division=chapter", "--template=firevogel", "--listings", "--pdf-engine=xelatex", "--toc-depth=3"]
 # subprocess.Popen("/usr/bin/pandoc" + pandoc_args)
 
 pandoc_command = [pandoc]
 pandoc_command.extend(pandoc_args) # Add arguments to the command
-call(pandoc_command)
 
-# Clean up temp files (unless debug argument is passed)
-if args.debug == 0:
-	print("* Cleaning up temp directory")
-	shutil.rmtree(temp_dir)
-else:
-	print("* Leaving temp files at", temp_dir)
+try:
+	call(pandoc_command)
+	print("* ", output_format, "created at", output_file)
 
-print("* DONE!")
+	# Clean up temp files (unless debug argument is passed)
+	if args.debug == 0:
+		print("* Cleaning up temp directory")
+		shutil.rmtree(temp_dir)
+	else:
+		print("* Leaving temp files at", temp_dir)
+
+	print("* DONE!")
+
+except:
+	print("Something went wrong. We're keeping your temp files at", temp_dir)
 
 exit()

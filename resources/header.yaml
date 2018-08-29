@@ -12,5 +12,6 @@ listings-disable-line-numbers: True
 header-includes:
 - \usepackage{fvextra}
 - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+- \raggedbottom
 - \setlength{\linespread}{1}
 ---
