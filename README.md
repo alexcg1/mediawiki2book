@@ -2,6 +2,15 @@
 
 Small Python script to take a wikitext file and turn it into a beautiful PDF. This is primarily aimed at my colleagues who regularly convert material from toyhouse.cc, namely the XLP Owner's Manual
 
+## This repo contains:
+
+* media2wiki.py - the script to export from wiki to pretty pdf book format
+* xlp_manual_dev.mediawiki - an example mediawiki file for you to process
+* xlp_manual_dev_example.pdf - exported example file from the mediawiki file above
+* images.zip - the images referenced in the mediawiki file
+* resources/header.yaml - metadata for the exported PDF
+* resources/firevogel.latex - latex template to render the PDF
+
 ## You will need:
 
 * Python 3.6+
