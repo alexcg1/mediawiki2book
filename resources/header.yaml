@@ -9,6 +9,7 @@ titlepage-color: "4169e1"
 titlepage-text-color: "ffffff"
 titlepage-rule-color: "ffffff"
 listings-disable-line-numbers: True
+toc-own-page: True
 header-includes:
 - \usepackage{fvextra}
 - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}

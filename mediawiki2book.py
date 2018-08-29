@@ -35,7 +35,7 @@ resources_dir = buildsystem_dir+"/"+"resources"
 ########## Deal with images (which should already be on your machine)
 
 with tempfile.TemporaryDirectory() as temp_dir:  
-    print("* Creating temp directory",temp_dir,"and copying over images")
+    print("* Creating temp directory",temp_dir,"and copying images")
 
 shutil.copytree(images_dir, temp_dir)
 
