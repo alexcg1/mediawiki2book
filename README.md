@@ -19,4 +19,4 @@ Small Python script to take a wikitext file and turn it into a beautiful PDF. Th
 
 ### I don't have the latest Pandoc!
 
-Ubuntu comes with an old version of Pandoc. Download the latest from [Pandoc's website]
+Ubuntu comes with an old version of Pandoc. Download the latest from [Pandoc's website](https://pandoc.org/installing.html)
