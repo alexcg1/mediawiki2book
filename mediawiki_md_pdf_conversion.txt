@@ -1,0 +1,23 @@
+# How?
+
+## First:
+
+pandoc -f mediawiki xxxxx.mediawiki -o xxxxx.md
+
+## Second:
+*md2pdf is a custom alias of pandoc, with a few arguments thrown in*
+
+md2pdf xxxxx.md -o xxxxx.pdf
+
+# Issues
+
+* Complex tables get screwed up
+* Image links get screwed up
+* Image widths get screwed up sometimes
+* Footnotes become statically linked to their number
+* No title page
+
+# Fixes
+
+## Table screw ups
+

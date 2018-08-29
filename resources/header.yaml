@@ -1,0 +1,17 @@
+---
+title: "XLP Owner's Manual"
+papersize: "a4"
+date: "Version 1.41 -- $DATE"
+author: [Professor Ben Koo, Alex Cureton-Griffiths, Gautam Mitra, Sam Sanders, Awid Vaziry]
+keywords: [XLP, Education]
+titlepage: true
+titlepage-color: "4169e1"
+titlepage-text-color: "ffffff"
+titlepage-rule-color: "ffffff"
+listings-disable-line-numbers: True
+header-includes:
+- \usepackage{fvextra}
+- \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+# - \setlength{\parskip}{3pt plus 2pt minus 1pt}
+- \setlength{\linespread}{1}
+---

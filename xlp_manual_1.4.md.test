@@ -1,0 +1,3871 @@
+What is XLP?
+============
+
+XLP stands for **Extreme Learning Process**, a methodology that lets
+communities of learners design and conduct collaborative learning
+activities. Taking a look more closely at the name:
+
+-   **Extreme:** XLP explores frontiers, identifies boundaries, and
+    helps participants push those boundaries.
+-   **Learning:** XLP enables individual learning, group learning, and
+    large-scale [crowd learning](crowd_learning "wikilink").
+-   **Process:** XLP has a clear process, through which participants
+    prepare, deploy, and execute missions.
+
+We aim to become a crowd-learning system that facilitates [collective
+learning](collective_learning "wikilink") in this increasingly complex
+world. Learners are empowered to work together within and between teams,
+and incorporate both digital and physical elements.
+
+Due to advancing technology, educational institutions can now operate in
+ways unthinkable only a few years ago. This is because today it is
+possible to collect and process organizational behavior data in ways
+that were impossible before. Therefore XLP is not merely about improving
+individual learning, but also *measuring and improving organizational
+learning*.
+
+XLP in a Nutshell
+-----------------
+
+XLP is a process with **inputs**, **outputs**, **activities**, and
+**effects**:
+
+### Inputs
+
+-   Sponsors and groups of [participants](#Participants "wikilink"), who
+    become [mission designers](#mission_designers "wikilink") and
+    [mission executors](#mission_executors "wikilink"). These
+    participants come together for a specific learning objective and
+    duration.
+-   [Resources](#Resources "wikilink") such as hackerspaces, campuses,
+    mentoring, etc.
+
+### Activities
+
+-   [Mission](#Missions "wikilink") based learning, which is designed
+    and executed by groups of participants. Each mission uses gamified
+    techniques to impart valuable knowledge and skills with real-world
+    applications.
+-   [Digital publishing](Digital_publishing "wikilink") of all
+    activities and results, in the form of [containers of
+    knowledge](#containers_of_knowledge "wikilink"), via our
+    [Remix](#Remix:_The_XLP_Online_Platform "wikilink") suite of tools.
+
+### Outputs
+
+-   Containers of knowledge, carrying a full record of participant
+    activity, and able to be read, shared and deployed with ease
+-   Knowledge and skills transfer
+-   Credentials and qualifications, stored on the Blockchain. Access can
+    be granted to selected employers and institutions to prove
+    participants expertise.
+-   Crowd Learning, i.e. large scale collaboration on learning missions.
+
+### Effects
+
+For participants:
+
+-   Real world decisions: XLP challenges participants to make financial,
+    legal, cultural and technical decisions, so they can achieve goals
+    set by the participant groups themselves.
+-   Real world experience: XLP is pragmatic. The XLP method induces
+    realistic human dynamics, utilizes modern technologies, encourages
+    participants to create social norms, and establishes executable
+    regulations based on the design principles of the fast-evolving
+    Internet.
+-   Tapping potential: XLP drives participants to realize their untapped
+    potentials and emerging powers of collaboration through having them
+    stretch the educational envelope by shifting the focus from teaching
+    (top-down) to learning (bottom-up).
+
+For educators and institutions:
+
+-   No-one left behind: XLP encourages an evolutionary process, which
+    creates a digitally enabled learning context that delivers rich
+    social-interactions and leaves no-one behind.
+-   Curating, not teaching: By placing participants in control of
+    learning, XLP redefines educators\' roles as curators of learning
+    resources and as evaluators of participants\' learning-potentials.
+-   Deeper, richer data: XLP provides network-enabled learning data
+    management technology that enables stakeholders to record, analyze
+    and identify learning trajectories to define new directions for
+    progress.
+
+A Short History of XLP
+----------------------
+
+Since June 2012, XLP-based orientation programs and semester-long
+courses have been conducted at:
+
+-   [Tsinghua University](Tsinghua_University "wikilink"), Beijing
+-   National Taiwan University of Science and Technology
+-   Singapore University of Technology and Design
+-   Taylor\'s University, Malaysia
+-   Eurasia University, Xi\'an
+-   Tianjin Vocational College of Mechanics and Electricity
+
+Courses have also been conducted at many leading high schools in China.
+Due to XLP\'s experimental success, China\'s Ministry of Education has
+invited the founder of XLP to serve on the Design Committee of National
+Curriculum Standards on Technology Education, with the goal of rolling
+out XLP as a learning architecture and a learning activity design
+methodology for over 300 million registered students in the Chinese
+education system.
+
+XLP is scalable and applicable to a broad range of students. A teacher
+from Tianjin Vocational College of Mechanics and Electricity stated his
+observation:
+
+\"In the past, I could only judge students\' quality by their test
+scores. However, after seeing that students with low test scores can
+sometimes be the most productive contributors in XLP-enabled learning
+process, I realized XLP presents many opportunities for students to
+demonstrate their natural talents.\"
+
+Mr. Wang Hong Yu, the General Manager of China\'s Open Course Resource
+Center, stated how XLP might affect his business:
+
+\"With shock and awe, I personally witnessed the transformative effect
+of a few XLP events on students. I realized that a radical
+transformation in education has already taken place here in China. The
+traditional textbook-oriented industry could no longer last. We have to
+re-position ourselves in the future ecology of education.\" test
+
+Why XLP? Why Now?
+=================
+
+XLP did not spring fully formed from a vacuum. There is a specific
+**context** surrounding the framework and its development:
+
+Computing Power
+---------------
+
+Roughly every 2 years, the number of transistors on a computer chip
+doubles[^1]. The resulting increases in computational processing power
+strongly synergizes with skyrocketing levels of data storage and falling
+costs. This influences every aspect of our lives, and the opportunities
+to learn in new and different ways are expanding exponentially.
+
+Big Data
+--------
+
+Every second, gigabytes of data are being collected, and no one -- or
+even any organization -- will ever be able to access or process it all.
+However, learning communities can come together to deal with subsets of
+this data and solve real-world problems.
+
+This big data makes what and how humans learn more important. As data
+collection and processing increasingly lets machines connect and aid
+human decisions (hence creating value), human ingenuity, creativity and
+intuition are becoming increasingly important. More and more, the only
+things that people should do are the things that only people can do --
+and this, of course, places a premium on humans\' ability to learn.
+
+Open Source
+-----------
+
+Open source gives anyone the right to use, change, or share a given
+technology, thus dramatically reducing the cost of using, copying,
+modifying, and redistributing software (and indeed, hardware). This
+means anyone can be a creator and build upon the achievements of those
+who came before.
+
+Mobile Devices
+--------------
+
+Developments in mobile communications and the ubiquity of digital
+electronic devices mean that more people can connect to the internet --
+and each other -- anytime, anywhere. This means newer, richer
+opportunities to learn from and with others, no matter where they are.
+
+Containers and Clouds
+---------------------
+
+Big data needs big computing power -- too much for any one institution.
+With cloud providers like AliCloud or Amazon Web Services, anyone can
+run virtual machines to perform big computing tasks, and with the power
+of container platforms (Docker, Kubernetes) they can scale and replicate
+with ease.
+
+Globalization
+-------------
+
+The problems of today\'s world require diverse communities to offer new
+insights. These problems are too big for just one individual or
+institution, but affordable Internet access is enabling people all over
+the world to collaborate in micro-learning communities to solve these
+problems. Learning and working together globally across boundaries of
+space and time -- across all boundaries -- is mankind\'s greatest hope
+for making progress, and XLP enables this crowd-learning and
+collaborative effort to improve the state of the world.
+
+XLP pushes for the emergence of the world as we believe it should be --
+egalitarian and equitable, a world in which everyone has a fair chance
+to have their voice heard, and a fair opportunity to contribute to the
+progress of the world and humanity.
+
+Summary
+-------
+
+The above factors both enable and require new modes of learning which
+are increasingly collaborative, personalized, self-directed, active,
+engaging, and global. XLP has enabled communities of learners to form,
+disband, and learn collectively more easily and inexpensively than ever
+before. The ubiquitous interconnectedness of data, people, things, and
+processes, the opportunities for collaborative crowd-learning -- and new
+modes of crowd-learning -- will increase exponentially. These trends
+will enable learning to be measured in new ways, and will redefine what
+the outcomes of learning should be. XLP capitalizes on these trends and
+enables new learning environments and opportunities, while being enabled
+and indeed necessitated by them. What humans learn, and the way they
+learn, must and will be transformed.
+
+How XLP Works
+=============
+
+Missions
+--------
+
+XLP\'s core activity is the mission. Participants either prepare the
+mission or execute it.
+
+These missions engage individuals and the group as a whole. Each group
+designs and operates its own small (or \"micro\") learning community
+that serves the individual and collective aims of the creators and
+participants.
+
+Each mission is governed by a [logic model](logic_model "wikilink") to
+deliver maximum learning value through hands-on activities. In this
+chapter we will give a high-level overview of the activities and
+participants in an XLP mission and the resources made available to
+achieve the mission goals. In the following chapters we will present
+detailed step-by-step breakdowns to help you prepare and run missions
+yourself.
+
+Participants
+------------
+
+XLP engages with learning communities of all shapes and sizes. They may
+be:
+
+-   Large or small
+-   Physically together, near each other, or spread around the world
+-   Of similar (or vastly different) ethnic, cultural, educational,
+    professional, and religious backgrounds
+-   Similar (or different) skill sets, skill levels, interests, and life
+    experiences
+-   Relatively homogeneous, or highly diverse
+-   Stay together for many years, or come together to design and conduct
+    a single learning activity
+
+These micro learning communities come together to learn something
+specific, often for a specific duration. Multiple communities can
+interact, and may later merge to form larger learning communities, just
+as amoebas divide and recombine in different ways. As a community
+becomes larger, it becomes more and more like the real world, and
+participating individuals, institutions, systems and societies can
+iterate upon increasingly optimal solutions.
+
+Each community may have three kinds of members: Mission Designers
+(MD\'s), Mission Executors (ME\'s) and Sponsors. The Designers and
+Executors learn individually and collectively, and this community is a
+microcosm of a larger context -- for example, a university, a society,
+or a nation. XLP challenges every learning team to be a focused,
+goal-oriented microscopic society in a digital publishing/learning
+workflow environment.
+
+### Mission Designer
+
+Mission Designers (MD\'s) design and test learning missions in
+accordance with the goals of sponsors, tailored for participants based
+on the available resources and requirements.
+
+MD\'s are generally divided into four or five groups that reflect
+[Lawrence Lessig\'s Four Forces](#Lessig's_Four_Forces "wikilink") that
+are discussed in a later chapter:
+
+-   A law court and perhaps a patent office to regulate the legal
+    interactions between ME\'s
+-   A media department to reflect the social norms of the ME\'s through
+    social media, other digital media, and traditional media
+-   Market regulators to regulate the operation of the market
+-   Technology support to enable ME\'s to execute missions using the
+    technology architecture required to do so
+
+### Mission Executor
+
+Mission Executors (ME\'s) participate in the missions designed by
+Mission Designers, and later become Mission Designers themselves. While
+on the mission, they learn to execute at a higher level of complexity or
+speed, and learn how to guide others to perform the mission.
+
+### Sponsor
+
+School/department that provides resources for XLP program.
+
+Resources
+---------
+
+A learning environment encompasses resources in both the virtual and
+physical worlds. These can be further divided into two categories:
+Resources to prepare before the learning process and resources (which
+have been used and tested in the past) to implement during the learning
+process:
+
+![](Resources.png "Resources.png"){width="700"}
+
+Outputs
+-------
+
+### Containers of Knowledge
+
+Containers are the foundation of XLP. A container can be thought of as a
+box that contains software, the data needed to configure that software,
+and data created by users (i.e. digital assets). These containers can be
+installed and used anywhere, and data can be imported and exported
+easily.
+
+-   XLP creates replicable, learning missions in containers, which can
+    then be installed and used anywhere in the world
+-   Our online platform, Remix, provides the infrastructure to perform
+    this digitally
+-   Participants create digital assets in their containers using
+    [digital publishing](#Digital_publishing "wikilink"), as a record
+    and proof of the work they have performed in the mission.
+
+By taking part in the mission and digital publishing workflow,
+participants create a body of knowledge covering their area of study.
+This is in the form of a container which includes software (typically [
+MediaWiki](#Wiki "wikilink") and other tools like
+[WordPress](#Blog "wikilink")), configuration, and content produced by
+the participants. These containers may contain many forms of digital
+asset:
+
+#### Proposal or Report Form
+
+Discusses the conclusion of a certain research study, or the conclusion
+of certain industry analysis (\"research study,\" \"business proposal,\"
+or \"industry analysis report.\")
+
+#### Budget
+
+Including both a planning schedule (i.e., a resource and human resource
+budget and timetable) in addition to a financial budget.
+
+#### Short Movie
+
+Usually a compilation of interesting video footage of the activity,
+annotated with written text and non-proprietary music.
+
+#### Prototype Product
+
+A book, pamphlet, brochure, or even physical product.
+
+#### Example Containers
+
+-   [Bauhinia Program](http://47.96.87.30:5111/index.php/Main_Page)
+
+### Team
+
+One of the most important aspects and products of any XLP event is the
+friendship developed between participants. Ideally they can create a
+social network so they can always tap into these human resources for
+future cooperation.
+
+### Refined XLP Manual
+
+Because everyone uses a similar mechanism to learn from each other, we
+can collect data on this to improve XLP as a general learning process --
+so that everything we do in XLP can be used as case studies or data to
+improve practices in future. The most direct contributions will be
+sections, refinements or revisions to the XLP operating manual that you
+are reading now.
+
+XLP for Mission Designers
+=========================
+
+The job of a Mission Designer is to design the mission for Mission
+Executors, then deploy it and guide them through it. Typically a Mission
+Designer has been an active Mission Executor in the past.
+
+Mission Designers put together:
+
+-   **[Constitution](Constitution "wikilink"):** Defines the goals of
+    the mission, and rights and responsibilities of Mission Designers,
+    Mission Executors, Sponsors
+-   **[Logic Model](Logic_Model "wikilink"):** Defines the context,
+    goal, inputs, activities, outputs, effects, and external factors of
+    the mission
+-   **[Mission Specification](Mission_Specification "wikilink"):**
+    Specifies the mission clearly
+
+This process generally takes a month or so, since extensive planning is
+required.
+
+It is highly recommended to \"eat your own dogfood\" while preparing the
+mission - namely using the XLP methodology itself (logic model,
+constitution, etc) to govern the mission design process, with the end
+goal of having students produce their own logic models, etc, as outputs
+of said mission. For that reason, MD\'s should become familiar with [
+how executors execute XLP
+missions](#XLP_for_Mission_Executors "wikilink") since designing an XLP
+mission is itself an XLP mission.
+
+Kick-Off Meeting
+----------------
+
+Sponsors, Mission Designers, and support stuff should come together to
+ensure mutual understanding of the XLP mission preparation process. Upon
+setting up the [Digital Publishing
+Container](#Digital_Publishing_Container "wikilink"), the team can use
+tools like [Phabricator](Phabricator "wikilink") to assign tasks and
+deadlines.
+
+Digital Publishing Container
+----------------------------
+
+Each learning community uses [digital
+publishing](digital_publishing "wikilink") tools (like
+[MediaWiki](MediaWiki "wikilink")) to publish their activities and
+results. These tools are contained in a [Docker](Docker "wikilink")
+container which lets users access them online. MD\'s should coordinate
+with technical support staff to ensure these containers are deployed and
+fully tested, with a regular backup system in place.
+
+Constitution
+------------
+
+The [constitution](constitution "wikilink") is a living document that
+lays out:
+
+-   Which entities can engage in an XLP mission
+-   The purpose of the mission
+-   Responsibilities of participants
+-   Rights of participants
+-   How to change or amend the constitution (typically via
+    [git](git "wikilink") or other version control systems)
+
+Mission Designers write their own constitution which \"overlays\" the
+[XLP Meta Constitution](XLP_Meta_Constitution "wikilink"). Check an
+[example constitution](example_constitution "wikilink") for reference.
+
+This constitution is supplemented by a smart contract. Whereas the
+constitution provides the framework, the smart contract handles the
+specifics. The constitution is the overarching set of rules,
+obligations, privileges and rights for the membership of accounts, while
+the smart contract is one defined and created by the parties involved in
+a particular digital publishing workflow or creation. That is, every
+account is to be governed by both this overarching constitution, and a
+smart contract which defines the specifics of one\'s work in the XLP.
+
+XLP for Mission Executors
+=========================
+
+Each Mission Executor goes through an extensive orientation program
+before engaging in the mission that the Mission Designers created.
+
+Delegations, Groups, and Teams
+------------------------------
+
+Depending on the amount of people taking part in activities, they can be
+broken down as follows:
+
+  --------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------
+  ![](delegation.png "delegation.png"){width="150"}                                                                                             ![](group.png "group.png"){width="150"}                                                                                        ![](teams.png "teams.png"){width="150"}
+  A **delegation** may consist of several groups who attend a venue together, but work on different courses with frameworks different to XLP.   A **group** is all the participants working on an XLP course together. They may (or may not) be part of a larger delegation.   Each group is split into **teams**, each working on a specific project that they will be graded on.
+  --------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------
+
+Orientation Program
+-------------------
+
+Usually involves digital identity, agreement reading/signing and quick
+overview of how to use digital publishing tools. Participants also gain
+experience dealing with many other people on the fly, encountering the
+courtroom, participating in market transactions, participating in media
+-- i.e. learning how the [four forces](four_forces "wikilink") interact
+with XLP activities.
+
+### Digital Identity
+
+Every entity in an XLP mission has a verifiable which they use to:
+
+-   Log in to the digital publishing tools stored in their container
+    (like [MediaWiki](MediaWiki "wikilink"),
+    [WordPress](WordPress "wikilink"), or
+    [NextCloud](NextCloud "wikilink"))
+-   Attach ownership to the content they generate
+-   Track their learning progress via built-in analytics tools
+-   Digitally sign the constitution and smart contracts
+-   Securely link their identity to their qualifications and credentials
+
+These participating entities include individuals and organizations, as
+well as physical resources and technical services. Digital identities
+(like email addresses or [OpenID](OpenID "wikilink")) enable the
+tracking of every entity\'s contribution to the crowd-learning process,
+and allow participants to sign [Smart
+Contracts](Smart_Contracts "wikilink").
+
+### Constitution Reading
+
+Before each XLP mission, each prospective participant reads through the
+[constitution](#constitution "wikilink") to learn the mission framework.
+This details the rights and responsibilities of each participant in the
+activity, in addition to services provided by the sponsor. Participants
+digitally sign a Smart Contract (stored on the Blockchain) stating that
+they understand the details of the constitution and their
+responsibilities, and an agreement stating that they agree to abide by
+the overarching constitutional framework during the activity.
+
+### Lab/Knowledge Exploration
+
+\"Taster\" classes allow participants to visit many laboratories and
+researchers in a big campus (e.g. Tsinghua University\'s laboratory
+exploration program that makes available more than 100 laboratories and
+gets participants on campus to see each other\'s research results.) This
+gives a broader context of available technology and research results.
+
+Some examples include:
+
+-   The Intelligent Manufacturing Incubator at Zhongguancun
+-   The Digital Capability Center at iCenter, Tsinghua University
+-   Other local high tech companies
+-   Tianhe Super Computing Center
+-   Tianjin High Tech Zone
+
+The Mission
+-----------
+
+Mission Executors will form teams and create a digital publication, for
+example an Industry Analysis Report (IAR), based on field trips,
+in-person interviews, and lectures conducted by speakers and tutors.
+Ideally, Mission Executors should collect and compile relevant industry
+indication data, pictures, and videos taken on field trips or daily
+observations during the program, and integrate them into their
+publication.
+
+All teams will collaborate on a hosted [ wiki](#Wiki "wikilink") to
+write and collate their reports, and then present the finished products
+on a visually appealing [ blog](#Blog "wikilink") and as a class
+presentation.
+
+-   **Example: Experience China, Industry Frontiers, 2018:**
+    [wiki](http://ec.toyhouse.cc/index.php/Main_Page),
+    [blog](http://ec.toyhouse.cc:4445/)
+
+Missions usually fall into one of three tracks, each of which use
+different tools to create different outputs:
+
+-   **[Industrial frontier](Industrial_frontier "wikilink")**:
+    Participants globally search and compile relevant information, and
+    creatively tell a compelling story using trustworthy data sources
+    and presentation techniques.
+-   **[Computational thinking](Computational_thinking "wikilink")**:
+    Participants apply optimization technologies and understand the
+    principles of optimal limits, and can thus apply optimization to all
+    their learning activities.
+-   **[Domain Specific](Domain_Specific "wikilink")**: Participants
+    learn domain-specific vocabulary and rules, so that they can
+    leverage existing bodies of knowledge in an organized manner.
+
+Typically, a mission follows five steps:
+
+<table style="border-collapse:collapse;border-spacing:0; background: #eee">
+<tr>
+<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+</th>
+<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+</th>
+<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Activities**
+
+</th>
+<th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Tools**
+
+</th>
+</tr>
+<tr>
+<td style="font-family:Arial, sans-serif;font-size:48px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff;font-weight:bold">
+1
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Mission Breakdown**
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+-   [Mission Decomposition](#Decomposition_and_Recomposition "wikilink")
+-   [Logic Model](#Logic_Model "wikilink")
+-   [Mission Statement](#Mission_Statement "wikilink")
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+N/A
+
+</td>
+</tr>
+<tr>
+<td style="font-family:Arial, sans-serif;font-size:48px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff;font-weight:bold">
+2
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Planning and Management**
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+-   Story-boarding
+-   Scheduling
+-   Task Allocation
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+![](logo_phabricator.png "logo_phabricator.png"){width="80"}
+
+</td>
+</tr>
+<tr>
+<td style="font-family:Arial, sans-serif;font-size:48px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff;font-weight:bold">
+3
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+`           `**`Activity`` ``Coordination`**
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+-   Interviews
+-   Research
+-   Data Collection
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+N/A
+
+</td>
+</tr>
+<tr>
+<td style="font-family:Arial, sans-serif;font-size:48px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff;font-weight:bold">
+4
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Product Development**
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+-   Prototyping
+-   Programming
+-   Integrating
+-   Testing
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+![](logo_jenkins_text.png "fig:logo_jenkins_text.png"){width="100"}  ![](logo_modelica.png "fig:logo_modelica.png"){width="100"}  ![](logo_jupyter.png "fig:logo_jupyter.png"){width="80"}
+
+</td>
+</tr>
+<tr>
+<td style="font-family:Arial, sans-serif;font-size:48px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff;font-weight:bold">
+5
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+**Digital Publishing**
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+-   Collating Data
+-   Digital Design
+-   Digital Publishing
+-   Presentation
+
+</td>
+<td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 15px 10px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#fff">
+![](logo_wordpress.png "fig:logo_wordpress.png"){width="50"}  ![](logo_mediawiki.png "fig:logo_mediawiki.png"){width="80"}
+
+</td>
+</tr>
+</table>
+Mission Breakdown
+-----------------
+
+### Decomposition and Recomposition
+
+Each XLP Mission follows our V Curve:
+
+![V Curve, showing mission decomposition and
+recomposition](V_curve2.png "V Curve, showing mission decomposition and recomposition"){width="400"}
+
+Starting from the left of the diagram, participants break down
+(decompose) the mission until they get to the most basic (atomic) level,
+and then rebuild (recompose) the constituent parts into potential viable
+outputs. Breaking it down step-by-step:
+
+1.  Mission specification.
+2.  Decomposition of mission specification.
+3.  Decompose and repeat steps 1-3 until you reach the atomic level.
+    Keep going down, machine checking if you have met the specification.
+    Must be at the atomic level.
+4.  Go back up once you have defined the most basic decomposition.
+5.  Propose a solution of some sort. You can use machines to generate
+    new solutions. Frequently test to see if it matches your
+    specification.
+6.  Pick the best option and [digitally
+    publish](#Digital_Publishing "wikilink") it.
+
+A useful analogy is a Lego set:
+
+-   The mission specification would be the picture of the finished model
+    on the box
+-   The mission would be to build the model
+-   The most atomic level is the individual Lego bricks
+
+Participants would look at the picture on the box, decompose it into
+component parts until they reach the brick level, then work out the best
+way to recompose it (or potentially build something even better) from
+there.
+
+### Logic Model
+
+A logic model (also known as a logical framework, theory of change, or
+program matrix) is a tool used by funders, managers, and evaluators of
+programs to evaluate the effectiveness of a program. They can also be
+used during planning and implementation. Logic models are usually a
+graphical depiction of the logical relationships between the resources,
+activities, outputs and outcomes of a program. While there are many ways
+in which logic models can be presented, the underlying purpose of
+constructing a logic model is to assess the \"if-then\" (causal)
+relationships between the elements of the program.
+
+As part of their digital publication, teams create a one-page logic
+model, taking into account activity context, inputs, activities,
+effects, external factors, and outcomes.
+
+Each of the boxes below will have precise linguistic properties that can
+be examined by human or machine (via Natural Language Processing), to
+know if the information in the box fits the specified requirements. In
+this way, participants can be assessed and certified automatically,
+using Blockchain-witnessed process data collected using the Remix
+platform.
+
+![XLP Logic Model](Design_contract.png "XLP Logic Model"){width="500"}
+
+#### 1. Context
+
+-   What\'s your current situation or context?
+-   Includes spatial and temporal description (where will you do the
+    activity, and when?)
+
+#### 2. Goal
+
+-   What do you want to do?
+-   Imperative statement, for example \"conquer Rome,\" or \"land a man
+    on the Moon\"
+
+#### 3. Measurable Effects
+
+-   How will you determine success?
+-   Set of conditional statements. Output will be measured against these
+    to confirm it has achieved desired goal
+
+#### 4. Output
+
+-   What will you deliver?
+-   Concrete objects like micro-movies, logic model documents, industry
+    analysis reports, financial statements, etc
+
+#### 5. Activities
+
+-   What do you need to do to succeed?
+-   Set of partially ordered activities, outlining what happens during
+    the project and how to accomplish the project goal
+
+#### 6. Input
+
+-   Resources required to execute the mission, including budget, human
+    skills, head counts, etc
+
+#### 7. External Factors
+
+-   What factors that could prevent the team from achieving their goal?
+
+The logic model is one of the first activities each team conducts, which
+helps to build a common understanding of the mission as well as the
+influencing parameters. During the next steps, continuously referring
+back to the logic model helps them check that they are consciously aware
+of their own actions.
+
+Using the logic model ensures that every task or project starts with
+explicitly-analyzed test cases, originating from Test Driven Design.
+Each step of the model feeds into the next step, generally with a
+one-to-one relationship. Similar to writing a computer program, the
+logic model has two stages of checking/analysis:
+
+-   Static Analysis: A way to read the model itself, and see if the
+    content in all boxes is consistent and relevant.
+-   Dynamic Analysis: A way to use the \"measurable effects\" to confirm
+    output matches expected outcomes, and if task performance fits the
+    goal.
+
+Many examples of logic models can be seen from the teams that took part
+in [Experience China
+2018](http://ec.toyhouse.cc/index.php/Industry_Frontiers_2018).
+
+### Mission Statement
+
+A mission statement acts as a carrier of culture, ethos and
+ideology[^2]. Many mission statements are pithy and up-beat, and deal
+with abstractions possessing \'a strategic level of generality and
+ambiguity\'[^3]
+
+A team\'s mission statement should capture the essence of their goals
+and reflect their specific niche. The best mission statements are clear,
+concise, and useful (informs. focuses. guides.)[^4]
+
+#### Examples
+
+-   **Public Broadcasting System (PBS)**: To create content that
+    educates, informs and inspires.
+-   **charity: water**: Bringing clean, safe drinking water to people in
+    developing countries.
+-   **National Parks Conservation Association**: To protect and enhance
+    America's National Park System for present and future generations.
+-   **TED**: Spreading Ideas.
+-   **Defenders of Wildlife**: The protection of all native animals and
+    plants in their natural communities.
+
+Planning and Management
+-----------------------
+
+Mission Executors use physical resources like whiteboards, post-its and
+note paper, and digital resources like [
+Phabricator](#Phabricator "wikilink") to storyboard their mission,
+assign tasks, and set a schedule.
+
+![Phabricator](phabricator_workboard.png "Phabricator"){width="600"}
+
+### Scheduling and Task Allocation
+
+Ideally use a whiteboard board, with post-it notes:
+
+![Kan Ban with post-its to organize
+tasks](design_contract_activities.jpg "Kan Ban with post-its to organize tasks"){width="500"}
+
+1.  Each team member writes down a list of tasks they think need to be
+    done
+2.  Team comes together to share their post-its, and come to consensus
+3.  Connect post-its with whiteboard markers to mark related ideas
+4.  Post-its are put on kanban, arranged by schedule
+    (today/tomorrow/this week/later/done)
+5.  Each activity is assigned to a team member and recorded on
+    Phabricator
+
+### Story-boarding
+
+Teams designing a product or producing a video may find it useful to
+produce a storyboard, to visually organize their story or use case.[^5]
+
+![Example
+storyboard[^6]](storyboard.jpg "Example storyboard"){width="600"}
+
+### Briefings and Debriefings
+
+At the beginning of each day, the team coordinator should meet with the
+team and ensure everyone is up-to-date and clear on their tasks. Some
+example questions include:
+
+1.  What thoughts have you had on the project since the end of the last
+    working day?
+2.  What tasks will you be working on today?
+3.  What obstacles do you think may pop up? (and as a team, work out how
+    to overcome them)
+4.  What other commitments do you have today?
+
+At the end of the day, we suggest a debrief to ensure the team achieved
+everything they planned. Some example questions are:
+
+1.  What did you get done today?
+2.  What did you plan to do, but didn\'t do? Why not?
+3.  What surprises (good or bad) came up? (and as a team, work out how
+    to overcome those bad surprises if they happen again)
+4.  What\'s your plan for tomorrow?
+5.  Any other business?
+
+Activity Coordination
+---------------------
+
+Based on the planning done in the previous steps, each team collects
+data via interviews with industry experts, site visits, online and
+offline research, and surveys. All research must be
+[cited](#References "wikilink") and collected on the wiki.
+
+### Surveys
+
+-   Writing good survey questions
+
+### Research
+
+Some helpful links include:
+
+-   [Google Scholar](http://scholar.google.com/)
+-   [ArXiv](http://arxiv.org/)
+
+Product Development
+-------------------
+
+*Note: Not all XLP courses require a product development step, for
+example when writing Industry Reports, this step would likely not be
+required.*
+
+Mission Executors use tools like [ Jenkins](#Jenkins "wikilink"),
+[Modelica](#Modelica "wikilink"), [Jupyter
+Notebook](#Jupyter_Notebook "wikilink"), and other prototyping and
+integration tools to develop their product, which may be software,
+hardware, or a business idea.
+
+![Jupyter Notebook](jupyter.jpg "Jupyter Notebook"){width="600"}
+
+Digital Publishing
+------------------
+
+Many of the mission objectives you will be graded on revolve around
+digital publishing. Each group participating in the course will have
+their own digital container that holds the software and data you will
+use and/or create during the course.
+
+When you sign up for the course, you should be given a URL for your
+container and a unique login and password. If you haven\'t, please speak
+to your coordinator. The software you will use is [
+WordPress](#Blog "wikilink") and [ MediaWiki](#Wiki "wikilink")
+
+### Wiki
+
+Mission Executors use the wiki to group edit your report and other
+documents.
+
+A wiki is a website on which users collaboratively modify content and
+structure directly from the web browser. In a typical wiki, text is
+written using a simplified markup language.
+
+![Example wiki, running on
+MediaWiki](example_wiki.png "Example wiki, running on MediaWiki"){width="600"}
+
+Wikipedia is by far the most popular wiki-based website, and is one of
+the most widely viewed sites of any kind in the world, having been
+ranked in the top ten since 2007. There are tens of thousands of other
+wikis in use, both public and private, including wikis functioning as
+knowledge management resources, notetaking tools, community websites,
+and intranets. The English-language Wikipedia has the largest collection
+of articles; as of September 2016, it had over five million articles.
+
+We use [Mediawiki](Mediawiki "wikilink"), the same software that runs
+Wikipedia, to allow participants to collaboratively create reports and
+other documents.
+
+[A guide to using MediaWiki](#Using_MediaWiki "wikilink") is in the
+appendix.
+
+### Blog
+
+After your report is ready, you will use the blog to create pages and
+present it in a visually appealing manner.
+
+A blog (short for \"weblog\") is a discussion or informational website
+consisting of posts (diary-style updates, displayed newest-first) and
+pages (more permanent information).[^7]
+
+![Example blog, running on
+WordPress](example_blog.png "Example blog, running on WordPress"){width="600"}
+
+Our blogging software is [WordPress](WordPress "wikilink"): a free and
+[open-source](open-source "wikilink") content management system. It is
+most associated with blogging, but supports other types of web content
+including more traditional mailing lists and forums, media galleries,
+and online stores. Used by more than 60 million websites, including
+30.6% of the top 10 million websites as of April 2018, WordPress is the
+most popular website management system in the world.[^8]. Our WordPress
+installation includes several plugins to make editing easier, most
+notably [Elementor](https://elementor.com/).
+
+[A guide to using WordPress and
+Elementor](#Using_WordPress_and_Elementor "wikilink") is in the
+appendix.
+
+### Presentation
+
+Each team will create a presentation to present the work they\'ve done,
+and present to the class. Typically, a presentation should last 5-7
+minutes, plus questions and answers afterwards. Don\'t worry about
+getting everyone on stage to present - instead limit it to 2-3 speakers.
+
+Since *Microsoft PowerPoint* is the industry standard (and you may not
+be presenting from your own computer), we recommend creating your
+presentation in *pptx* format. Don\'t use Google Docs or other online
+office suites, since connnectivity (due to VPN or lack of network) may
+be an issue.
+
+After each team has presented, everyone will regroup and the group will
+nominate a team to create one final presentation to summarise the
+industry reports of all the teams.
+
+### Poster
+
+Quite often, all of the teams will come together as a group and create
+one or more posters that present the work they\'ve done. While other
+groups may use markers or a collage to create their poster, we recommend
+sticking with the theme of digital publishing and creating it with
+software like *Adobe Illustrator*.
+
+Example poster from *Experience China 2018: Industry Frontiers*:
+
+![Example
+poster](2400px-Industry_Frontiers_2018_4800px.jpg "Example poster"){width="600"}
+
+### Useful Resources
+
+We encourage participants to use Creative Commons (CC) licensed
+materials in their work. Creative Commons licenses let others copy,
+distribute, edit, remix, and build upon various works, all within the
+boundaries of copyright law.[^9]
+
+The following websites let you search for content licensed under
+Creative Commons. Don\'t forget to cite your sources and respect the
+license when you use these materials!
+
+-   [Creative Commons Search](https://search.creativecommons.org/) -
+    images, music, video
+-   [Noun Project](https://thenounproject.com/) - symbolic icons (for
+    example, world, people, internet, etc)
+-   [14 Websites To Find Free Creative Commons
+    Music](https://www.makeuseof.com/tag/14-websites-to-find-free-creative-commons-music/)
+-   [The Five Best Places To Find Free Creative Commons
+    Photos](https://www.makeuseof.com/tag/places-find-free-creative-commons-photos/)
+-   [5 More Places to Help You Find Quality Creative Commons
+    Images](https://www.makeuseof.com/tag/5-more-places-to-help-you-find-quality-creative-commons-images/)
+
+Evaluation and Assessment
+-------------------------
+
+Using secure technologies like the Blockchain, XLP tracks learner
+activity at different levels, assessing how individuals contribute to
+their group and how a small group contributes in turn to larger
+communities. This allows individuals and teams to receive personalized
+feedback and improve over time. This in turn applies to grading and
+certification, with both micro-credentials and full degrees stored on
+the Blockchain. Access rights can be granted to other universities or
+employers to show tamper-proof evidence of achievement.
+
+Remix: The XLP Online Platform
+==============================
+
+Think of the world you live in: Imagine the classroom of the future:
+
+In a world that is becoming increasingly digital, it is essential to
+teach the skills required to navigate through the digital environment as
+early as possible. A gap is opening between those who are
+technologically literate and others who are yet to be comfortable with
+handling software. The ones who are on the wrong side of this gap will
+eventually suffer detrimental implications to their careers and lives.
+Such individuals will not be able to take part in collaborative work,
+thereby limiting their ability to increase their knowledge. Already,
+individuals and institutions lack the tools to create new digital assets
+or work with the existing digital information, both of which decrease
+their overall potential. Clearly, students need a solution to escape
+this situation. Imagine a classroom of the future that is modeled after
+the reality outside the classroom. If the reality outside the classroom
+is one pervaded by digital tools, so should the classroom. Remix makes
+sure this happens. Students will no longer study for exams but prepare
+for the challenges that await them in the future. It helps them work and
+self-manage teams with tools like Phabricator and Git, while allowing
+teachers to track student progress and individual contributions
+(captured using a digital data processing system) towards their
+respective projects using GitLab. Without such digital tools,
+organizational consciousness can\'t be brought to human attention and
+organizational learning can\'t happen.
+
+Trustworthy computing technologies such as Blockchain technology are
+integrated into Remix. These ensure immutability while ensuring credit
+is given where credit is due.
+
+Remix Tools
+-----------
+
+The Remix platform offers a large array of powerful tools, manageable by
+anyone and scalable to any size.
+
+These tools will be an important asset for any modern educational
+institution for which it can fully develop the intellectual potential of
+its students and staff. The platform democratizes services that were
+previously limited to such an extent that only established companies
+were able to utilize their full potential. These services are now
+combined into a single platform allowing any individual or institution
+to start their digital transformation. Without the need for continuous
+online connectivity, the platform can be brought to the farthest corners
+of the globe, where a new generation of individuals can start fulfilling
+their computational needs. In short, Remix can bring the tools used by
+established software companies into any classroom or home enabling
+anyone to take part in the future of the digital world.
+
+Together, participants can create new data using tools like Jupyter and
+OpenModelica, or analyze and optimize existing information using
+Elasticsearch and TensorFlow. Ultimately, every individual can create or
+take part in a Digital Publishing Workflow -- a cycle going from Data
+Input to Data Management to Data Publishing, all from their own laptop
+in one single application. This is Remix.
+
+### What is a Microservice?
+
+The central idea behind microservices is that some types of applications
+become easier to build and maintain when they are broken down into
+smaller, composable pieces which work together. Each component is
+continuously developed and separately maintained, and the application is
+then simply the sum of its constituent components. This is in contrast
+to a traditional, \"monolithic\" application which is all developed all
+in one piece.
+
+Applications built as a set of modular components are easier to
+understand, easier to test, and most importantly easier to maintain over
+the life of the application. It enables organizations to achieve much
+higher agility and be able to vastly improve the time it takes to get
+working improvements to production. This approach has proven to be
+superior, especially for large enterprise applications which are
+developed by teams of geographically and culturally diverse
+developers.[^10]
+
+Remix Microservice Overview
+---------------------------
+
+![](remix_tools.png "remix_tools.png"){width="700"}
+
+### Data Input
+
+Data Input describes the different ways through which data may enter the
+Remix platform. In the Digital Publishing Workflow, Data Input lies
+between Data Publishing and Data Management, as previously published
+data can act as input for Data Management.
+
+Generally, data may enter the system from three source types or
+combinations of them.
+
+#### Data Creation
+
+Remix comes with microservices from which new data can be created. For
+instance, OpenModelica enables users to create simulations of complex
+systems. The data produced by these simulations can then be saved for
+later use. Another service, Jupyter, allows for coding, solving
+equations, and showing their visualizations that can then be shared in
+real time among different users. Again, all the data created can be
+saved for later use.
+
+#### Online Data
+
+Remix also allows users to source data from the internet such as
+databases, wikis, or pictures. Again, different microservices are
+available and integrated for this purpose. Data may be accessed directly
+from the internet or downloaded first (for instance, to be brought to
+regions where internet access is spare or Internet is slow). Kiwix, for
+instance, offers the entire Wikipedia, WikiVoyage, TED Talks, and more
+for free to download on their website. This data may also be used as
+input for Data Creation, subsequently representing a combination of
+data.
+
+#### Private Data
+
+Remix enables users to use their own private data as input for Data
+Management and Publishing. For this purpose, the platform comes with
+microservices such as Nuxeo, which is a digital asset library already
+used by institutions, companies, and individuals to manage their digital
+assets and NextCloud for file storage in the cloud. Hence, they can tap
+into their existing data and use it as input for other microservices to
+create new data, again representing a combination. Generally, such
+private data may belong to an individual, an institution, or a company
+who can scale up their data storage as required without having to scale
+the other microservices thanks to the underlying system architecture.
+
+### Data Management
+
+The data management part of Remix utilizes four different tools to
+perform a number of tasks. In the Digital Publishing Workflow, Data
+Management lies between Data Input and Data Publishing. The purpose of
+data management is to load the given information from the different data
+inputs, then optimize it so that it becomes searchable and produces the
+best results, which in turn can be visually presented to the user. This
+is possible through the use of the ELK stack from Elastic, consisting of
+Logstash, Elasticsearch, and Kibana, in combination with the machine
+learning capabilities of TensorFlow. These tools are combined to allow
+users to perform queries on wide array of data that in turn, can be
+optimized based on an infinite number of characteristics. The following
+section will describe each tool and how they are an integral part of the
+of the Remix framework.
+
+#### Logstash: Data extraction, transformation, and loading
+
+Remix consists of a large number of data sources that each produce a
+large quantity of data, in many different formats. It is therefore
+necessary to have a tool that can extract, transform and load the input
+data into the next step of the process. This is where Logstash is used.
+Logstash is an open source server-side data processing pipeline based on
+the extract, transform, load (ETL) process.
+
+Each step has varying degrees of complexity, that will be explained in
+the following sections:
+
+The first job carried out by Logstash is the extraction of data from the
+different defined sources. Extraction is conceptually the simplest task
+of the whole process but also the most important. Theoretically, data
+from multiple source systems will be collected and piped into the system
+for it later to be transformed and eventually loaded into the system.
+Practically however, extraction can easily become the most complex part
+of the process. The process needs to take data from the different
+sources, each with their own data organization format and ensure that
+the extraction happens correctly so that the data remains uncorrupted.
+This is where validation is used. The extraction process uses validation
+to confirm whether the data that was extracted has the correct values,
+in terms of what was expected. It works by setting up a certain set of
+rules and patterns from which all data can be validated. The provided
+data must pass the Transform Load validation steps to ensure that the
+subsequent steps only receive proper manageable data. If the validation
+step fails, then the data is either fully rejected or passed back to the
+source system for further analysis to identify improper records, if they
+exist.
+
+The data that is extracted then moves on to the data transformation
+stage. The purpose of this stage is to prepare all submitted data for
+loading into the end target. This is done by applying a series of rules
+or functions to ensure that all business and technical needs are met.
+Logstash does this by applying up to 40 different filters to all
+submitted data. When filtering is completed, the information is
+transformed into a common format for easier, accelerated analysis. At
+the same time, Logstash identifies named fields to build structure from
+previously unstructured data. In the end of the transformation process,
+all data in the system will be structured and in a common format that is
+easily accepted by subsequent processes.
+
+The last part of the ETL process is the load phase. The load phase takes
+the submitted and transformed data and loads it into the end target.
+There are certain requirements defined by the system that must be
+upheld. This pertains to the frequency of updating extracted data and
+which existing information should be overwritten at any given point.
+Logstash allows the system to load onto a number of systems, Remix does
+however only require that Elasticsearch receives the data.
+
+#### Elasticsearch: Search and Optimize
+
+Search and optimize are two key attributes of any data management
+system. It allows a system to filter away all the unwanted data and
+prioritize the results based on a number of given attributes. Search and
+optimize are not functions that are limited to basic keyword searches,
+but can instead be used for a wide variety of possibilities. Everything
+from choosing the correct strategy in a game of chess to simulating the
+trajectory of a moving vehicle. In all these cases, the function
+utilizes the available information from the different data sources in
+combination with machine learning intelligence to give the desired
+outcome To achieve this Remix uses Elasticsearch and TensorFlow.
+Elasticsearch is a distributed, RESTful search and analytics engine that
+stores data in a searchable manner. All the data that is passed through
+Logstash eventually ends up in Elasticsearch. Here it is structured and
+analyzed to allow users to search based on their chosen parameters. The
+given parameters are in turn used to filter away all the unwanted
+results. What remains is a list of results that in one way or another
+are linked to the original search criteria. This list is, in turn,
+handed to TensorFlow.
+
+TensorFlow is a mathematical library using deep neural networks in order
+to analyze data. The system takes in the data that was selected by
+Elasticsearch and prioritizes/orders it according to the pre-determined
+criteria. This gives the user a selected number of results that should
+be suited exactly to their defined needs.
+
+When it comes to searching and optimizing, Remix\'s key difference
+compared to other services is that results are purely based on the user.
+If a user specifies a certain interest or academic field that they are
+studying, then the optimization will be created with that parameter as a
+focus point. Thus, opening up focused research where all
+advertising-based rankings or unwanted results are removed.
+
+#### Kibana: Data Visualization
+
+In certain scenarios, the outcome of the data management process
+doesn\'t come in the form of links or lines of text. In these cases, it
+is often required that the data goes through some sort of visualization
+in order to turn it into something that is manageable.
+
+This is carried out by Kibana, the last tool in the data management
+process. Kibana is a data visualization plugin that works with
+Elasticsearch to provide visualization on top of the content that has
+been indexed. It takes all the data that the user has asked for and
+gives a visualization if it is applicable. Kibana can therefore also be
+seen as being part of the data creation aspect of Remix.
+
+### Data Publishing
+
+The final aspect of any standard research project concerns the
+publishing of results and conclusions.
+
+For this reason, the final part of the Remix framework is data
+publishing. The purpose of this step is to ensure distribution of new
+data to a wide audience while guaranteeing rightful credit and ownership
+of published research and findings. To do this, the platform uses two
+main tools, MediaWiki and Hyperledger, in combination with the machine
+learning capabilities of TensorFlow.
+
+MediaWiki is a digital publishing tool created by the Wikimedia
+Foundation. It allows information to be published in a structured and
+navigation-friendly way. Remix uses MediaWiki to allow institutions or
+individuals to create closed or open wiki spaces in which all their
+information and research can be published. Each publisher then creates a
+distinct name for each new published article or piece of information.
+All the information on the given wiki space is then individually
+connected using the deep neural network capabilities of TensorFlow, as
+mentioned in the previous chapter. TensorFlow analyses each piece of
+information and carefully links it together with other related
+information. This, in the end, produces a wiki space which is full of
+research articles and other information, in combination with existing
+Wikipedia data, that is fully connected. Furthermore, connections and
+recommendations of articles can be made based on user preferences. In
+other words, if a user is studying biology and is doing research on the
+flight patterns of butterflies, then Remix will start creating more
+links and finding more research articles on that topic specifically. In
+that scenario, it might connect the flight patterns of butterflies to
+the evolution of airplane wing structures.6
+
+Ultimately, a person can, through Remix, have access to a deeply
+interconnected network of research, published articles, and existing
+data from the internet.
+
+To ensure all information in the system is untampered with and that
+publishers are rightfully credited, Remix uses trustworthy computing
+technologies such as Hyperledger. Hyperledger is an open-source
+collaborative blockchain technology that ensures transparency and
+immutability of all data in the system. This, in turn, ensures that any
+information for which there may be a rightful owner is credited as such.
+These tools open up a new dimension of the digital publishing process
+that allows institutions and individuals to contribute their knowledge
+to a greater audience.
+
+### Groupware
+
+Remix provides Phabricator and GitLab as a platform for participants to
+collaborate. GitLab is an open-source web-based Git-repository manager
+with wiki and issue-tracking features, allowing users to upload and
+share code and digital assets, while ensuring no conflicts occur between
+versions.
+
+Phabricator is is a suite of web-based software development
+collaboration tools, including a code reviewer, repository browser,
+change monitoring tool, bug tracker and wiki. Phabricator integrates
+with Git, Mercurial, and Subversion. Participants can use it for project
+management and coordination within (and among) teams.
+
+### Architecture
+
+The interconnectedness of services in Remix is made possible using the
+Docker platform. Docker uses container technologies to allow
+microservices and other digital assets can be run in easily-replicable
+sandboxes and not interfere with each other. Unlike virtual machines,
+containers do not require a guest operating system which makes them more
+lightweight, allowing for more or bigger applications running on a
+server or single computer.
+
+With Docker container technologies, we can re-define all digital assets
+into three main categories: content data, software data, and
+configuration data. These categories can be tagged using a hash code
+(similar to Git or Blockchain labels) and can be traded by swapping out
+\"tokens\" or hash IDs of the asset. This allows participants to easily
+install different software services and start using the asset almost
+instantly. The end result is that participants and instructors can
+better manage learning activities, and use one consistent namespace to
+organize all their assets.
+
+![](remix_architecture.png "remix_architecture.png"){width="400"}
+
+Hence, a multitude of containers can easily be combined in a single
+application. This can be done through Docker Compose. While Docker
+focuses on individual containers, Docker Compose engenders scripting the
+installation of multiple containers that work together to create a
+bigger application. Microservices in Remix talk to each other to modify
+and move data from its creation, to its management, and publishing. At
+the same time, since the microservices are still housed in their
+respective containers, any service may be added or removed at any time
+without damaging other containers.
+
+Remix also enables deployment, monitoring, and scaling microservices
+with Kubernetes, a tool specifically designed for this task.
+Microservices can then be scaled individually and independently from
+each other (thanks to their containerization), specific to the needs of
+the user. Matomo (formerly known as Piwik) is an open-source analytics
+software package (similar to Google Analytics) for tracking online
+visitors, analyzing important information, and track key performance
+indicators. Remix uses this software to track usage of the platform by
+participants.
+
+Finally, Mesosphere DC/OS acts as the foundation of the system and adds
+a layer of abstraction between Kubernetes and Docker and the user\'s
+underlying OS. This operating system for datacenters works specifically
+well with microservices and takes care of resource allocation and makes
+the system fault-tolerant.
+
+In summary, Remix is an platform that is lightweight, modular, and easy
+to install, use, and scale, enabling everyone to make use of the
+powerful microservices included. The platform achieves this using a
+three-part structure with the microservices being the highest layer of
+abstraction followed by the combination of Kubernetes and Docker and
+completed by the Mesosphere DC/OS.
+
+Education on the Blockchain
+---------------------------
+
+The blockchain is a decentralized technology that acts as a digital
+ledger for recording transactions between different entities, both human
+and machine. Originally devised for the digital currency Bitcoin, the
+blockchain is now being used for many other purposes, including in
+education. Below is our guide to making education fairer, deeper, and
+more accessible to all by using the blockchain.
+
+> "The blockchain is an incorruptible digital ledger of economic
+> transactions that can be programmed to record not just financial
+> transactions but virtually everything of value." - Don & Alex
+> Tapscott, authors Blockchain Revolution (2016)
+
+### Historical Context
+
+Like many phenomena, over time education has moved from a centralized
+cathedral model to a more decentralized bazaar model[^11]:
+
+#### Education 1.0: Traditional Education
+
+![Education 1.0: Centralized
+monoliths](education_1.png "Education 1.0: Centralized monoliths"){width="600"}
+
+Traditional education consists of physical university campuses, and
+students attending classes on-site. Students do coursework, lab work,
+theses and exams, and these are graded by professors, usually at the end
+of the semester. In education 1.0, students are generally passive
+consumers of education, receiving information from academic staff[^12]:
+
+Because traditional education is based around a physical space and a
+limited number of professors, students are limited by number and
+location, and financial and academic requirements for entry can be very
+high[^13] [^14].
+
+Because assessment is done by humans, fraud and bias can creep in from
+both students and faculty. Indeed, A large-scale study in Germany found
+that 75% of the university students admitted that they conducted at
+least one of seven types of academic misconduct (such as plagiarism or
+falsifying data) within the previous six months.[^15] Some examples of
+dishonest behavior include:
+
+-   A woman using an impostor to take a college English test[^16]
+-   A Japanese medical university manipulating entrance exam scores to
+    limit the number of women admitted[^17]
+-   Thousands of UK nationals buying fake degrees from "diploma mill" in
+    Pakistan[^18]
+-   50,000 UK university students were caught cheating in the previous
+    three years, amounting to a so-called "plagiarism epidemic"[^19]
+
+##### Summary
+
+In Education 1.0:
+
+-   A student browses universities within physical proximity and signs
+    up for a course, typically for several years
+-   The student physically goes to classroom and sits in front of
+    professor
+-   The student writes thesis and sits exam
+-   The professor grades the thesis and exam
+-   The professor awards a grade to the student
+
+#### Education 2.0: MOOCs
+
+Education 2.0 moved education online, with Massive Open Online Courses,
+offered by sites such as [Coursera](http://www.coursera.com),
+[Udacity](http://www.udacity.com), and [EdX](http://www.edx.com). These
+courses are open to anyone around the world, and students are given
+regular feedback on their performance via the system.
+
+![Education 2.0: Networked
+monoliths](education_2.png "Education 2.0: Networked monoliths"){width="600"}
+
+Education 2.0 is the age of networked monoliths. Whereas previously
+universities offered courses only to their own students, now they offer
+courses on MOOC platforms too. However, these MOOC platforms are
+themselves centralized monoliths. Students may take courses on one more
+MOOC platforms.
+
+Typically students sign up for a MOOC with their existing digital
+credentials like a Facebook login or email address. While convenient,
+these are not solid proof of identity in the way that a secure digital
+identity (like public/private key) would be. At best, some services
+offer biometric identity via webcam.[^20]
+
+Interaction between students (if there is any at all, which is not
+often[^21]) is via the MOOC's forum, and is typically centred around
+problem-solving and support, rather than content creation, project-based
+learning and digital publishing. After the course is finished students
+disband (again, if they ever banded together) and go their separate
+ways. This limits the possibility for collaboration and groupwork.
+
+Courses are typically assessed by algorithm \[citation needed\], from
+students answering multi-choice questions or writing a program that
+generates a specific output. This limits many MOOCs in terms of
+flexibility and creativity.
+
+##### Summary
+
+In Education 2.0:
+
+-   Student signs up for a course on Coursera, EdX or another platform
+    offering educational courses, typically for a few weeks or months
+-   Student works from wherever they are in the world
+-   Student coursework is graded by the MOOC system and assessors
+    working for the MOOC
+-   MOOC system awards grade to student
+
+But how do we ensure the student is actually the one doing the work?
+
+Physically decentralized but central MOOC system
+
+### The Future: Education 3.0: Education on the Chain
+
+With Education 3.0 we can modularize, granularize, democratize and
+decentralize education further:
+
+-   The line between educator and student gets blurred, as anyone can
+    directly offer courses or tutoring and get paid for it
+-   Students can learn from anywhere in the world, from a single lesson
+    to a series of courses
+-   Students and educators can monetize the materials they create,
+    instead of them languishing on a hard disk
+-   Educators can spend less time grading and more time doing valuable
+    tasks
+-   Qualifications can be verified and trusted
+
+![Education 3.0: Mass P2P
+learning](education_3.png "Education 3.0: Mass P2P learning"){width="600"}
+
+We do this by leveraging the power of the blockchain, specifically
+Ethereum.
+
+Ethereum is a blockchain that enables anyone to create decentralized
+applications and smart contracts.[^22] A smart contract is a legal
+contract in the form a computer program stored that enables secure,
+verified transactions between two or more entities.[^23] This program is
+encoded on the Ethereum blockchain, and typically takes cryptocurrency
+as input. Parties sign the contract using their [digital
+identity](digital_identity "wikilink"), typically in the form of a PGP
+private/public key pair.
+
+We aim to create two kinds of token to make this possible. We are still
+working out some details, but for now:
+
+-   A cryptocurrency called **EducationCoin**, an ERC20 token. Educators
+    can offer courses using this token, and students can purchase
+    courses. It can also be used to purchase student-created digital
+    assets ( e.g. market reports, white papers) on a decentralized
+    marketplace.
+-   Integrating currency too deeply into education is ethically dicey.
+    For interactions on a student-student marketplace we may need a
+    closed loop non-currency cryptotoken. For now let's call this
+    **EducationToken**.
+
+#### Choosing a Course
+
+The blockchain allows us to decentralize the MOOC concept further and
+allows decentralized marketplaces for courses, enabling content creators
+to offer their own curriculum, and giving users confidence with a
+built-in rating system. Students from anywhere in the world can browse
+this marketplace and elect to take a course by signing a smart contract.
+
+Since anyone can be a course provider in education 3.0, the line between
+educators and students blurs considerably. Anyone can offer their
+materials and assistance (via one-on-one or one-to-many personalized
+tuition) on this platform. Participants browse the offerings, find the
+course that best suits them and pay via EducationCoins. They can
+purchase the whole course, just certain units, or specific guidance from
+the course creator.
+
+Because there is less human effort required in assessments, smaller
+machine-graded courses can easily be offered. These
+"micro-qualifications" cover specific niche skills or disciplines, for
+example the React Javascript framework.[^24]
+
+#### Course Signup
+
+During course signup, students read through the course
+[\#constitution](#constitution "wikilink"), which outlines their rights
+and responsibilities. This is both a human-readable document and
+embodied digitally in the form of a smart contract. Students sign this
+smart contract with their digital identity to show they have read their
+rights and responsibilities during the course.
+
+#### Coursework
+
+Depending on the type of course, different types of coursework may be
+done:
+
+##### Individual Learning
+
+May consist of watching videos, answering multi-choice questions, and
+writing code that creates a specific output. Similar to many programming
+courses in MOOCs. Students can offer support to each other via the
+platform's forum and social features, and the best forum answers get
+paid in EducationCoins. This incentivizes students to contribute quality
+answers and build community.
+
+##### Group Learning
+
+More project-based. Students do coursework on digital publishing
+platforms like MediaWiki and WordPress, which they sign into using their
+digital identity, ensuring any data they create is tied to them. These
+services have open APIs, so their data can be extracted and stored on a
+blockchain (either private or the main chain) to ensure data
+integrity.[^25] Courses can be gamified with cryptocurrency tokens as
+incentives, and an internal marketplace can be set up for students to
+trade skills and knowledge with EducationCoins.
+
+##### Crowd Learning
+
+Any student can create a portfolio on a global student expertise
+exchange platform (similar in concept to Upwork) and seek out other
+students around the world who need their skills. This creates a
+marketplace for students to share knowledge and expertise, and enables
+large-scale crowd learning. This expertise can be "paid" for using
+EducationTokens, a non-currency cryptotoken.
+
+Many students can cooperate to create a single digital asset, on which
+they will be jointly assessed, and they can then sell this asset (or
+subsections of it) on a decentralized digital asset marketplace.
+
+#### Assessment
+
+For assessment, student-created data is gathered and stored on the
+blockchain to prevent tampering. It is then sorted using tools like the
+[Elastic Stack](Elastic_Stack "wikilink"), then processed, checked for
+plagiarism, and assessed by machine learning (with tools like
+[TensorFlow](TensorFlow "wikilink")). It can then be aggregated, ranked,
+and visualized for professors to perform their own assessments if
+required.
+
+Students can be awarded EducationCoins for quality work.
+
+#### Grading and Qualification
+
+As part of the assessment, a student's qualification will be signed by
+the institution (for example, Tsinghua University) and stored securely
+on the main blockchain, allowing access by employers, institutions and
+anyone else to whom the student grants access via app or other means.
+
+By tying every step of the course to a student's verifiable digital
+identity and assessing by machine instead of humans, we greatly reduce
+fraud, bias, and human error in the system, and can scale education to
+deal with thousands of learners. Qualifications can be verified and
+trusted by students, universities, and employers.
+
+![Assessing and grading
+students](blockchain-assess-grade.png "Assessing and grading students"){width="600"}
+
+Access to these qualifications can be encoded as a QR code which could
+be embedded in a badge via the [OpenBadge](https://openbadges.org/)
+standard (similar to Scout badges, but digital). A set of skills can
+form a portfolio accessible via the web or dedicated app. As we
+transition to a model of lifelong learning, we can foresee people
+earning these badges throughout their life, and perhaps professional or
+job-hunting networks (like LinkedIn or Monster.com) may one day have a
+function to search by badge to find the best candidates.[^26]
+
+![Example digital
+badges](badges.png "Example digital badges"){width="600"}
+
+#### Monetizing Coursework
+
+In Education 1.0, students' output was left to languish in filing
+cabinets or hard disks. In Education 2.0, it's stored on a hard disk or
+in the cloud. Even for professors, they have to pay publishers like
+[Elsevier](http://www.elsevier.com) to publish their content.[^27] In
+Education 3.0, we aim to flip that model and let anyone publish and
+monetize their academic content.
+
+Coursework performed by students (for example, white papers, essays,
+industry analysis reports) can be exported and stored on the blockchain
+via IPFS[^28] then offered to buyers or licensees via a decentralized
+content marketplace (like [Steemit](https://steemit.com/).)
+
+\[diagram\]
+
+1.  Create and export content
+2.  Upload content to IPFS
+3.  Choose license
+4.  Set fees
+5.  Publish
+
+Buyers sign a smart contract outlining their rights to use the content
+(for example, they may be free to re-use the content but not to edit
+it), and payment is made to the student(s) via cryptocurrency. Since the
+marketplace is decentralized, there is no middleman to take a cut and
+creators receive payment in full. In addition, these student-created
+digital assets can be broken down into their constituent parts, so if a
+buyer only wants a specific diagram and not the whole text they can just
+license that.
+
+\[diagram\]
+
+1.  Browse content based on keyword or publication number
+2.  Choose how you want to use content (use full content, use partial
+    content, pay per use, pay per impression, flat-rate fee)
+3.  Sign smart contract
+4.  Pay content creator
+5.  Download content
+
+![Monetizing students' digital
+assets](blockchain-monetize-asset.png "Monetizing students’ digital assets"){width="600"}
+
+In group-created works, a record of who created what can be kept on the
+blockchain, so payment can be shared equitably between creators.
+
+#### Marketplaces
+
+We have discussed four different marketplaces above:
+
+##### Education Market
+
+Creators provide courses, resources, tutoring, and expertise for
+learners. Learners can create coursework using built-in digital
+publishing tools, and this can be assessed (at least partially) by
+algorithm.
+
+-   Example products: Astronomy 101; Psychology 305;
+-   Target customers: Students, learners
+-   Target providers: Educators
+
+##### Digital Asset Market
+
+A marketplace for white papers, market reports, theses, academic papers,
+etc. Like a decentralized Elsevier.
+
+-   Example products: White paper on social media trends in China;
+    photographs, data, and maps of soil erosion around London
+-   Target customers: Business, academia
+-   Target providers: Students, professors, educators
+
+Traditional competitors would be journal companies like Elsevier, who
+charge both for publishing and for access
+
+##### Talent Market
+
+Learners can post their profiles and qualifications here for recruiters
+to see
+
+-   Example "products": Student with 4-year degree in computer science;
+    Student with nano-degree in writing smart contracts
+-   Target customers: Recruiters
+-   Target providers: Qualified learners
+
+##### Learner Market
+
+An internal marketplace for learners to trade expertise, knowledge, and
+assistance. However, since the line between creators and learners is
+blurred, do we need this?
+
+-   Target customers: Learners
+-   Target providers: Leaners, creators
+
+#### User Experience
+
+##### The EducationCoin App
+
+Initially, the EducationCoin app will focus on providing a high-quality
+marketplace experience for learners (i.e. consumers, not creators),
+including:
+
+![App mockups](educoin_app.png "App mockups"){width="600"}
+
+-   Sign up for account
+-   Purchase EducationCoins
+-   Browse courses
+-   Sign up as student for a course
+-   Make payment for course in EducationCoins
+-   Taking (simpler) courses
+
+More complex courses (which need extensive coursework and writing) are
+less suitable for a smartphone experience and can be performed on the
+EducationCoin web platform.
+
+##### The EducationCoin Web Platform
+
+The web platform provides a more comprehensive set of services:
+
+**Creators can:**
+
+-   Create their courses and set prices
+-   Upload materials for their courses
+-   Send alerts to students of their courses
+
+**Learners can:**
+
+-   Sign up for courses
+-   Use hosted MediaWiki/WordPress to do more complex coursework
+-   Contact creators and other learners to solicit advice or cooperate
+    together
+-   Set bounties for questions to be answered or expertise given
+
+### Summary
+
+EducationCoin and EducationToken enable:
+
+-   **Fairer distribution of wealth** to both students and educators
+-   **Large scale crowd-learning** through a student skill marketplace
+-   **Democratised access** for educators and students around the world
+-   **Bias-free, fraud-free assessment** of all student work
+-   **Exposure to recruiters** through verified qualifications and
+    talent marketplace
+
++----------+----------------+-----------------+----------------------+
+|          | Education 1.0  | Education 2.0   | Education 3.0        |
++==========+================+=================+======================+
+| Location | Physical       | Centralized     | Decentralized online |
+|          | university     | online platform | platform             |
++----------+----------------+-----------------+----------------------+
+| Cost     | Thousands of   | Free - 100      | Set by educator      |
+|          | dollars        | USD(?)          |                      |
++----------+----------------+-----------------+----------------------+
+| Types of | In-depth,      | Multi-choice    | In-depth,            |
+| courses  | project-based  | skill tests     | project-based, and   |
+|          |                |                 | skill tests          |
++----------+----------------+-----------------+----------------------+
+| Methodol | Top-down       | Top-down, some  | P2P                  |
+| ogy      |                | P2P             |                      |
++----------+----------------+-----------------+----------------------+
+| Who      | Institutions   | Institutions,   | Educators, students  |
+| profits  |                | course          |                      |
+|          |                | marketplaces    |                      |
++----------+----------------+-----------------+----------------------+
+| Possibil | High - bias,   | Low             | Very low             |
+| ity      | fraud, human   |                 |                      |
+| for      | error          |                 |                      |
+| fraud    |                |                 |                      |
++----------+----------------+-----------------+----------------------+
+
+### Technical Analysis
+
+#### Infrastructure
+
+Education 3.0 is primarily digital - since everything boils down to
+zero's and one's, automation and computation can be applied to create
+efficient, verifiable workflows.
+
+##### Software Stack
+
+At present all of the software stack we have used in XLP has been
+traditional server-based microservices. Decentralized Apps (DApps) are
+still some way off when it comes to capabilities.
+
+-   Digital media creation tools like MediaWiki, WordPress, Jupyter
+    Notebook, etc
+-   Tools to extract, analyse and write that data to blockchain:
+    Logstash, Elastic Search, TensorFlow
+-   Tools to visualize that data for human assessment (if required):
+    Kibana
+-   A front-end to tie all of this together
+
+#### Smart Contracts in Depth
+
+We use smart contracts throughout the whole process outlined above:
+
+-   Educators putting their courses on the course marketplace
+-   Students electing to take courses
+-   Educators assigning grades to students
+-   Licensees buying access to student-created data
+
+In addition, we use digital signatures to prove ownership and work on
+certain assets:
+
+-   Courses created by educators
+-   Coursework done by students
+-   Qualifications, signed by both student and educator
+
+##### Signing a Smart Contract
+
+The first contract signed by students is the constitution, which
+outlines their rights and responsibilities. To do this they need to set
+up a digital identity, typically a public/private key pair using the PGP
+standard:
+
+OpenPGP is the most widely used encryption standard in the world. It is
+based on PGP (Pretty Good Privacy) as originally developed by Phil
+Zimmermann. The OpenPGP protocol defines standard formats for encrypted
+messages, signatures, and certificates for exchanging public keys. PGP &
+GPG is an easy-to read, informal tutorial for implementing electronic
+privacy on the cheap using the standard tools of the email privacy field
+- commercial PGP and non-commercial GnuPG (GPG)[^29]
+
+PGP uses two keys for encryption - a private key to encrypt messages,
+and a public key to decrypt them. Bruce Schneier writes[^30]:
+
+> "Putting mail in the mailbox is analogous to encrypting with the
+> public key; anyone can do it. Just open the slot and drop it in.
+> Getting mail out of a mailbox is analogous to decrypting with the
+> private key. Generally it's hard; you need welding torches. However,
+> if you have the secret (the physical key to the mailbox), it's easy to
+> get mail out of a mailbox."
+
+A file encrypted with PGP typically looks like this:
+
+    -----BEGIN PGP MESSAGE-----
+    Version: GnuPG v1.4.0 (FreeBSD)
+    hQIOA9o0ykGmcZmnEAf9Ed8ari4zo+6MZPLRMQ022AqbeNxuNsPKwvAeNGlDfDu7
+    iKYvFh3TtmBfeTK0RrvtU+nsaOlbOi4PrLLHLYSBZMPau0BIKKGPcG9162mqun4T
+    6R/qgwN7rzO6hqLqS+2knwA/U7KbjRJdwSMlyhU+wrmQI7RZFGutL7SOD2vQToUy
+    sT3fuZX+qnhTdz3zA9DktIyjoz7q9N/MlicJa1SVhn42LR+DL2A7ruJXnNN2hi7g
+    XbTFx9GaNMaDP1kbiXhm+rVByMHf4LTmteS4bavhGCbvY/dc4QKssinbgTvxzTlt
+    7CsdclLwvG8N+kOZXl/EHRXEC8B7R5l0p4x9mCI7zgf/Y3yPI85ZLCq79sN4/BCZ
+    +Ycuz8YX14iLQD/hV2lGLwdkNzc3vQIvuBkwv6yq1zeKTVdgF/Yak6JqBnfVmH9q
+    8glbNZh3cpbuWk1xI4F/WDNqo8x0n0hsfiHtToICa2UvskqJWxDFhwTbb0UDiPbJ
+    PJ2fgeOWFodASLVLolraaC6H2eR+k0lrbhYAIPsxMhGbYa13xZ0QVTOZ/KbVHBsP
+    h27GXlq6SMwV6I4P69zVcFGueWQ7/dTfI3P+GvGm5zduivlmA8cM3Scbb/zW3ZIO
+    4eSdyxL9NaE03iBR0Fv9K8sKDttYDoZTsy6GQreFZPlcjfACn72s1Q6/QJmg8x1J
+    SdJRAaPtzpBPCE85pK1a3qTgGuqAfDOHSYY2SgOEO7Er3w0XxGgWqtpZSDLEHDY+
+    9MMJ0UEAhaOjqrBLiyP0cKmbqZHxJz1JbE1AcHw6A8F05cwW
+    ===zr4l
+    -----END PGP MESSAGE-----
+
+In the context of email:
+
+-   Alice and Bob agree on a public key algorithm.
+-   Bob sends Alice his public key.
+-   Alice encrypts her message with Bob's public key and sends it to
+    Bob.
+-   Bob decrypts Alice's message with his private key.
+
+##### Writing a Smart Contract
+
+Smart Contracts are often written in the Solidity programming language,
+although LLL and Serpent are also available. They are then run on the
+Ethereum Virtual Machine, which implements a full stack Turing-complete
+computer on the blockchain.
+
+XLP Philosophy
+==============
+
+Micro, Meso, Macro
+------------------
+
+The XLP curriculum has three tiers:
+
+### Macroscopic in Nature
+
+![](Macro.png "Macro.png"){width="400"}
+
+Globally search and compile relevant information, and creatively tell a
+compelling story using trustworthy data sources and presentation
+techniques.
+
+### Mesoscopic in Sorting Order
+
+![](Meso.png "Meso.png"){width="400"}
+
+Apply optimization technologies and understand the principles of optimal
+limits, so that participants and teams can apply optimization to all
+their learning activities.
+
+### Microscopic in Contexts
+
+![](Micro.png "Micro.png"){width="400"}
+
+Guide participants to be acquainted with domain-specific vocabulary and
+rules, so that they can leverage existing bodies of knowledge in an
+organized manner.
+
+The three categories of courses are built on top of our Remix platform,
+which provides a foundation of industry-standard tools to help XLP
+participants achieve the goals of their curriculum.
+
+![](Dpw_os.png "Dpw_os.png"){width="400"}
+
+The MD\'s and ME\'s learn individually and collectively. The community
+of sponsors, MD\'s, and ME\'s is a microcosm of a larger context -- for
+example, a university, a society, or a nation. XLP challenges every
+learning team to be a focused, goal-oriented microscopic society in a
+digital publishing/learning workflow environment.
+
+![](dpw_plus_participants.png "dpw_plus_participants.png"){width="400"}
+
+Theory U
+--------
+
+Theory U is a change management method created by Otto Scharmer, who has
+worked with Tsinghua University and Xu Lili (Theory U\'s China
+Coordinator) to refine XLP. The principles of Theory U are suggested to
+help political leaders, civil servants, and managers break through past
+unproductive patterns of behavior that prevent them from empathizing
+with their clients\' perspectives and often lock them into ineffective
+patterns of decision making.
+
+Several of XLP\'s steps correlate with Theory U:
+
+![](Theory_u.png "Theory_u.png"){width="400"}
+
+By following these principles, we can achieve several beneficial
+outcomes:
+
+### Early Success
+
+Provides resources and knowledge that enables participants to kick off
+their learning journey with excitement.
+
+### Fail Early, Fail Safe
+
+Ensures participant learning assignments are challenging enough, so they
+can observe their shortcomings and correct their course of actions in
+the early stage of the mission.
+
+### Convergence
+
+Guide participants to re-combine their team structures to create a
+synergistic product/service with other teams.
+
+### Demonstration
+
+Every learning program should end with a ceremonial event that allows
+participants to summarize their learning experience and present it to
+other people who may be future XLP participants.
+
+Lessig\'s Four Forces
+---------------------
+
+Lawrence Lessig\'s Code Version 2.0 states that a number of forces
+regulate the behavior of individuals in a society or community:
+
+![](four_forces.png "four_forces.png"){width="400"}
+
+### Law: The Rules a Community Recognizes
+
+-   Imposes constraints on the behavior of members by explicitly
+    threatening punishment or sanctions that the community as an entity
+    will enforce.
+
+### Social Norms: How a Community Expects You to Behave
+
+-   Similar to the law in that norms constrain behavior of community
+    members
+-   Unlike the law, community members impose social norms on each other
+    informally
+-   Whereas the law, and (prospective) punishment for breaking the law,
+    is explicit, social norms are understood by all, or most, of the
+    community without being explicitly stated or mandated.
+
+### Market: How Much Do You Pay?
+
+-   Enables buyers and sellers of goods, services, information, labor,
+    and capital to exchange.
+-   The market forces of supply and demand determine the equilibrium
+    level of prices in each respect market.
+-   Implicitly regulates behaviour of community members, for prices can
+    fluctuate rapidly dependent on consistency and reputation.
+
+### Architecture: The Way the World Is
+
+\"The way the world is, or the ways specific aspects of it are.\"
+
+-   The way a product (not a service) has been designed, created,
+    manufactured, or built.
+-   Regulates community members by imposing physical or
+    technical/technological constraints.
+-   Special due to \"agency\" - does not require direct human
+    intervention to operate (whereas other forces require police force,
+    community members, merchants, etc), so it is \"self-executing.\"
+
+While each of these regulating forces is separate and distinct, all four
+influence each other as they regulate the behavior of community members.
+
+### Example: Smoking
+
+In Code version 2.0, Lessig uses the regulation of smoking to illustrate
+the operation and interdependence of these four forces. If you want to
+smoke, Lessig asks, what constraints do you face?
+
+#### Law
+
+Federal, state, and local laws laws regulate:
+
+-   Minimum age and ID requirements
+-   Where you are permitted to smoke
+-   Tax on the purchase of cigarettes (aiming to reduce smoking
+    incidence)
+
+#### Social Norms
+
+Social norms can constrain behavior even more than laws:
+
+-   Smoking in the house of a non-smoking friend
+-   Smoking near children in restaurants
+
+#### Market
+
+-   The higher the price of cigarettes, the more financially constrained
+    you are by smoking
+-   Higher insurance premiums for smokers reduces the desire to smoke
+
+#### Architecture
+
+The way cigarettes are designed and manufactured.:
+
+-   Filterless cigarettes are more dangerous, so more pressure to reduce
+    smoking. Ultralights may tempt you to smoke more (thus costing more
+    in terms of money and social norms)
+
+### How do the Four Forces Interact?
+
+The four forces are interdependent; they interact, and influence each
+other as they regulate the behavior of individuals in the community. A
+change in one may influence another. Using the example of smoking:
+
+#### Social norms → Market
+
+![](social_norms_market.png "social_norms_market.png"){width="700"}
+
+#### Market → Law/Social norms
+
+![](market_law_social_norms.png "market_law_social_norms.png"){width="700"}
+
+### How do the Four Forces Relate to XLP?
+
+Since XLP is a methodology for crowd-learning, these four forces also
+(by definition) regulate the behavior of individuals in each
+micro-learning community, and ultimately increasingly large macro
+learning communities.
+
+#### Law
+
+The law is constituted by XLP\'s digital recording infrastructure (legal
+evidence collection mechanism), which allows the filing of complaints,
+patent filing, and law enforcement.
+
+#### Social Norms
+
+One of the most important forces shaping social norms in XLP is the idea
+that all learning outcomes must be demonstrable. One of the most
+important end products is publishing the crowd-learning results online
+using a digital publishing system.
+
+#### Market
+
+XLP\'s transaction validation system records and validates transactions
+executed in the crowd-learning environment.
+
+#### Architecture
+
+XLP\'s technology architecture is one of the most important forces that
+regulate the behavior of individuals in our crowd-learning environment.
+Architecture is the only one of the four forces that, once created or
+enabled, does not require direct human intervention to operate. It
+functions alone and directly; that is, it is \"self-executing.\"
+
+The architecture in XLP\'s crowd-learning environment is the Remix
+Platform, a combination of hardware and software. A later section in
+this manual will describe it in detail.
+
+### The Four Forces, XLP, and The Real World
+
+A noteworthy feature of XLP is how each force within a specific micro-
+or macro-learning community interacts with the same force in the \"real
+world.\" For example, much of XLP\'s legal framework interacts with that
+of the real world: It is difficult to divorce the two, given that the
+real world\'s legal frameworks and mechanisms have evolved over
+centuries, and to regulate the individuals in a community. Patents filed
+in the XLP crowd-learning environment may very well also be filed in the
+real world, for example. If XLP is internationally and legally
+recognised, then this process of duplication may become automatic.
+
+Similarly, given that one of the most important end products of an XLP
+activity is publishing the crowd-learning results, it is natural that
+these results are published via a real-world means like social media,
+other online media, or traditional media that is accepted by social
+norms.
+
+In the market, a product or service might attract investment in the XLP
+environment -- and might attract real-world investment too. Intellectual
+property in XLP\'s environment might also be bought and sold in the real
+world.
+
+Finally, XLP\'s architecture has its roots in the public commons of
+universities, and specifically physical campuses and other resources
+that enable the crowd-learning environment to emulate the the real world
+to a large degree. This is an important factor in XLP enabling learning
+on a large and public scale.
+
+Technical Analysis
+==================
+
+Containerization
+----------------
+
+Containers are the foundation of XLP, the Remix platform, and XLP\'s
+Digital Publishing Workflow:
+
+-   XLP creates replicable, containerized learning missions, which can
+    then be deployed and scaled up anywhere in the world
+-   Remix provides the infrastructure to perform this digitally - i.e.
+    Docker and Kubernetes
+-   participants create containerized digital assets using XLP\'s
+    [Digital Publishing
+    Workflow](Digital_Publishing_Workflow "wikilink"), as a record and
+    proof of the work they have performed in the mission.
+
+### Docker Containers
+
+Docker is an operating system abstraction layer, providing an
+abstraction boundary which manages collective boundaries and experience
+for its users. A Docker container **\'contains**\':
+
+-   An operating system (often Linux/Windows/MacOS)
+-   The programs you want to run on the operating system (for example,
+    WordPress/Mediawiki)
+-   The application and configuration data for the program (for example,
+    WordPress media assets, WordPress configuration details)
+-   The data for the program (if WordPress, a database of MySql/Mariadb)
+
+This container and its data(volume) can be save/exported from the Docker
+filesystem and be loaded, for easy deployment anywhere.
+
+Like an operating system, Docker:
+
+-   Authenticates the container via its hash
+-   Schedules priorities, for example what resources the container has
+    access to
+-   Manages input and output, for example how many of the host
+    machine\'s resources it may use.
+
+### What do We Run in Docker?
+
+![](Container_types.png "Container_types.png"){width="700"}
+
+### Namespaces
+
+Computers operate on levels of abstraction. Otherwise we would be
+dealing directly with ones and zero\'s. A common kind of abstraction is
+a namespace, which organizes and names objects. Some examples include:
+
+-   Memory registers: Each register has it\'s own unique address
+-   Filenames: Each file on a system has it\'s own unique path and
+    filename combination
+-   URLs: Each website is reached via different URL
+
+Containers also have their own unique namespace, namely their 256-bit
+hash. An example hash (shown in hexadecimal format) would be:
+
+    7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069
+
+This hash acts as a digital fingerprint, and is highly secure since
+there are 256^32^ combinations which would take 3x10^51^ years to crack
+if using fifty supercomputers.
+
+### Verification and Security
+
+With filenames or URLs, you have no guarantee you\'ll actually get what
+you think you\'ll get. Today \*google.com\* might take you to a search
+engine. Tomorrow Google may get hacked and you could end up on a site
+that \*looks\* like Google but steals your login credentials.
+
+Containers are different. Since Docker hashes are unique and
+unforgeable, we can verify a Docker container and add it to a database
+of other verified containers. When you\'re then deploying that
+container, you can check that hash matches the hash in our database,
+thus ensuring the container will run consistently. This can be thought
+of as similar to the police comparing fingerprints of known criminals
+with fingerprints at a crime scene.
+
+Secure Concurrent Editing
+-------------------------
+
+A potential barrier with generating big data simultaneously across a
+distributed network is the [Byzantine Generals
+Problem](Byzantine_Generals_Problem "wikilink")5: Reliable computer
+systems must handle malfunctioning components that give conflicting
+information to different parts of the system.
+
+In an abstract sense, this can be expressed as a group of generals
+camped with their troops around an enemy city. They can only communicate
+by messenger to agree on a common battle plan. However, one or more of
+them may be traitors who will try to confuse the others. So, how can we
+find an algorithm to ensure that the loyal generals will reach
+agreement?
+
+It is shown that, using only oral messages, this problem is solvable if
+and only if more than two-thirds of the generals are loyal; so a single
+traitor can confound two loyal generals. With unforgeable written
+messages, the problem is solvable for any number of generals and
+possible traitors.
+
+In XLP, the problem can be seen as failing to process large amounts of
+data at the same time. The solution is a distributed repository (like
+[Git](Git "wikilink")) allowing all participants to transparently see
+what content others contribute. This increases everyone\'s confidence in
+the trustworthiness of their fellow participants, thus making them more
+likely to contribute and share content, and that this content will be
+compiled into a consistent result.
+
+XLP uses existing computing science techniques that improve the ability
+to process the concurrent publishing of massive amounts of distributed
+intellectual content. Bitcoin also ensures Byzantine fault tolerance --
+in other words, solves the Byzantine Generals Problem -- by
+incorporating a distributed database that lets any participant view the
+entire history of transaction records. This enables the processing and
+compiling of massive amounts of intellectual resources on an Internet
+scale. Open-source version control software, like Git, Concurrent
+Versions System (CVS), and Apache Subversion (SVN), also enable sharing
+of human-contributed content -- be it source code, novels, textual
+content, movies, or photographs -- and enable the processing and
+compiling of data on a massive scale.
+
+Decentralization
+----------------
+
+By using computer-generated smart contracts stored on technologies
+similar to Blockchain, organizations that practice XLP can run as a
+decentralized autonomous organization (DAO). This means that participant
+performance can be assessed algorithmically and stored securely on their
+lifelong digital learning profile. Using Blockchain ensures XLP abides
+by the principles of Trustworthy Computing, giving participants,
+organizations, and employers faith in the quality of work.
+
+Tokenization
+------------
+
+Tokenization goes hand in hand with the theory of containerization. Any
+kind of digital information can be seen as a data container, and every
+container can be broken down into smaller containers. For example, this
+XLP manual is a container, which contains the necessary information for
+executing XLP. The XLP manual container consists of sub-containers - one
+of them is this section.
+
+Modern Blockchain (Distributed Ledger) technology can be used as a
+common representation of any type of container. A token is simply all
+bundled information for uniquely representing a container on a
+distributed ledger. This token uniquely identifies a distinct container
+and guarantees its authenticity. tokens can be used as a proof of
+authorship, as well as ownership and hence used for trading and sharing
+containers.
+
+This section will present the most important history and technical
+concepts which enable tokenization. Then, distributed ledger technology
+is discussed. Lastly, the necessary architecture for the
+XLP-Token-System (XTS) is derived and presented.
+
+### Distributed Ledger Technology (Blockchain)
+
+In 2009, Satoshi Nakamoto the paper \"Bitcoin: A Peer-to-Peer Electronic
+Cash System\" [^31]. In his work he describes a global decentralized
+system for exchanging tokens. The inherent tokens digitally represent a
+monetary value and are labeled as Bitcoins.
+
+This system, called a Blockchain or Distributed Ledger (DL) can be
+created by combining available technologies and algorithms such as:
+
+-   Public-private-key cryptography
+-   Digital signatures
+-   Digital timestamps
+-   Peer-to-peer protocols
+-   Cryptographic hashes
+-   Merkle trees
+
+Additionally, a DL system needs a consensus algorithm for reaching
+agreement between the distributed participants. Such a consensus
+algorithm ensures that there is a global world state of values, on which
+the majority of participants agree. In Bitcoin, this system is called
+Proof-of-Work and relies on participants using their computing power for
+solving a randomized \"riddle\".
+
+Four Forces
+-----------
+
+XLP activities are executed in a highly technical context, which takes
+into account the Four Forces discussed previously. These forces require:
+
+### Legal Mechanisms
+
+A dispute resolution process and patent filing process.
+
+### Market Mechanisms
+
+Exchange of goods, services, information, and capital, and establishing
+prices for these through supply/demand dynamics. Technical Architecture
+
+Sophisticated technological infrastructure that allows transdisciplinary
+learning across space and time.
+
+### Social Norms
+
+Agreed-upon standards for what constitutes acceptable behavior --
+covered in orientation and general university practices.
+
+Participants need access to technology that enables the four forces to
+regulate behavior, and, just as importantly, must learn its use before
+the XLP activity.
+
+Through their digital identity, participants must be trained to (among
+other things):
+
+-   File patents
+-   File complaints and sue other entities
+-   Defend their legal rights
+-   Buy and sell intellectual property and financial and other
+    commodities
+-   Publish the products of their learning and their learning outcomes
+    via social (or other) media
+
+The four forces are all present to an extent in traditional modes of
+learning, but their respective and collective functions in
+crowd-learning is relatively minimal, and not systematic. A major reason
+is the lack of a common digital infrastructure to track market
+transactions, patent applications, and refutation processes; nor has
+social media been systematically used to identify and measure cultural
+norms in a classroom and how they relate to a specific learning
+scenario.
+
+Therefore, XLP\'s activity context is highly technical, and requires big
+data and other sophisticated technologies and principles to collect,
+store, process, and analyze data.
+
+From a technical perspective, XLP is:
+
+-   A crowd-learning distributed operating system that collects, stores,
+    processes, and analyzes data and generates condensed and refined
+    content with machine and human help.
+-   A learning ecology that combines organic entities with digital
+    equipment and processes. XLP leverages open-source technologies,
+    distributed version control systems, and cryptocurrencies to track
+    learners\' individual and collective contributions to the
+    collaborative, collective learning process and learning outcomes.
+
+Computer cycles for collecting, storing, processing, and analyzing data
+are clearly different from human cycles. Thus enabling many people to
+simultaneously revise content, for example, requires sophisticated
+engineering management practices and workflow management techniques,
+which we generally don\'t find in traditional educational settings.
+However, this technology is becoming increasingly mature and is being
+leveraged by XLP to become a distributed crowdlearning operating system
+that provides a learning context -- both for individuals and for the
+crowd -- that is very different from that of a traditional educational
+setting.
+
+Glossary
+========
+
+-   Blockchain: Digital ledger in which transactions made in bitcoin or
+    another cryptocurrency are recorded chronologically and publicly
+-   Campus, Physical: The physical elements of a campus, e.g. people,
+    buildings, land, equipment
+-   Campus, Virtual: Non-tangible aspects of a campus, e.g. distributed
+    learning workflow design team, cloud services and intellectual
+    property, etc
+-   CCC: See Cognitive Construction Chart
+-   Cognitive Construction Chart: Improved, interactive version of logic
+    model
+-   Container: Operating-system-level virtualization, also known as
+    containerization, refers to an operating system feature in which the
+    kernel allows the existence of multiple isolated user-space
+    instances
+-   Containerized Digital Asset: Content data, software data, or
+    configuration data stored in a Docker (or other) container
+-   DC/OS: Open-source operating system and distributed system
+-   Design Contract: One page document to ensure participants are
+    cognizant of their own actions. Covers context, inputs, activities,
+    and outcomes.
+-   Digital Publishing Workflow: Cycle going from Data Input to Data
+    Management to Data Publishing
+-   Distributed Autonomous Organization: Organization that is run
+    through rules encoded as computer programs called smart contracts
+-   Docker: Computer program that performs operating-system-level
+    virtualization also known as containerization
+-   Elasticsearch: search engine that provides a distributed,
+    multitenant-capable full-text search engine with a web interface
+-   Fab Lab: small-scale workshop offering (personal) digital
+    fabrication, typically equipped with an array of flexible
+    computer-controlled tools that cover several different length scales
+    and various materials, with the aim to make \"almost anything\".
+    Similar to hackerspace
+-   Four Forces: Lawrence Lessig\'s four forces that constrain our
+    actions: the law, social norms, the market, and architecture.
+-   Free Software: See open source
+-   Git: Version control system for tracking changes in computer files
+    and coordinating work on those files among multiple people
+-   Github: The most popular web-based Git repository manager.
+-   GitLab: Open-source, user-hostable web-based Git repository manager
+-   GNU/Linux: Family of free and open-source software operating systems
+    built around the Linux kernel. Typically packaged in a form known as
+    a Linux distribution for both desktop and server use.
+-   Hackerspace: A place in which people with an interest in computing
+    or technology can gather to work on projects while sharing ideas,
+    equipment, and knowledge. Similar to Fab Lab
+-   Hyperledger: Umbrella project of open source blockchains and related
+    tools to support the collaborative development of blockchain-based
+    distributed ledgers.
+-   Jenkins: Automation server that helps to automate the non-human part
+    of the software development process, with continuous integration and
+    facilitating technical aspects of continuous delivery.
+-   Jupyter Notebook: open-source web application that allows you to
+    create and share documents that contain live code, equations,
+    visualizations and narrative text. Uses include: data cleaning and
+    transformation, numerical simulation, statistical modeling, data
+    visualization, machine learning, and much more.
+-   Kiwix: Open-source offline wiki browser
+-   Kubernetes: Open-source container-orchestration system for
+    automating deployment, scaling and management of containerized
+    applications
+-   Ledger: Used in blockchain. A database held and updated
+    independently by each participant (or node) in a large network
+-   Linux: See GNU/Linux
+-   Logic Model: One-page, seven item summary of project\'s context,
+    goals, effects, outputs, processes
+-   Macroscopic: Category of XLP courses that lead participants to
+    investigate contextual information of a system. Namely historical
+    development trajectory of technologies, people and relevant
+    institutions
+-   Makerspace: A place in which people with shared interests,
+    especially in computing or technology, can gather to work on
+    projects while sharing ideas, equipment, and knowledge. Similar to
+    hackerspace or Fab Lab, but often more focus on education
+-   Matomo: A web analytics application
+-   Mediawiki: Open-source wiki software used by Wikipedia
+-   Mesoscopic: Category of XLP courses that focuses on combinatorial
+    nature macroscopic opportunities and microscopic technical
+    resources. Otherwise known as System Design in Computational
+    Thinking
+-   Mesosphere: Mesosphere DC/OS is an enterprise grade datacenter-scale
+    operating system, providing a single platform for running containers
+-   Microscopic: Category of XLP courses that focuses on technical
+    details of particular domain (e.g. quantum physics, biology, civil
+    construction). Some subject content that relates to
+    highly-specialized fields
+-   Microservice: Software development technique that structures an
+    application as a collection of loosely coupled services. In a
+    microservices architecture, services are fine-grained and the
+    protocols are lightweight
+-   Open Source: Software for which the original source code is made
+    freely available and may be redistributed and modified.
+-   Phabricator: Suite of web-based software development collaboration
+    tools, including the Differential code review tool, the Diffusion
+    repository browser, the Herald change monitoring tool, the Maniphest
+    bug tracker and the Phriction wiki.
+-   Piwik: A web analytics application (now renamed Matomo)
+-   Remix: XLP\'s online platform of tools for participants
+-   Smart Contract: A computer protocol intended to digitally
+    facilitate, verify, or enforce the negotiation or performance of a
+    contract. Smart contracts allow the performance of credible
+    transactions without third parties.
+-   Test Driven Design/Development: Software development process that
+    relies on the repetition of a very short development cycle
+-   Trustworthy Computing: Broad term that refers to technologies and
+    proposals for resolving computer security problems through hardware
+    enhancements and associated software modifications.
+-   U Theory: Change management method targeting leadership as process
+    of inner knowing and social innovation developed by Otto Scharmer
+-   WordPress: World\'s most popular open-source content management
+    system based on PHP and MySQL
+-   XLP: Extreme Learning Process, a methodology that enables
+    communities of learners to design and conduct collaborative learning
+    activities
+
+Appendices
+==========
+
+Constitution
+------------
+
+### Preface: A New Kind of Constitution
+
+Typically, constitutions are decomposed into the following mutually
+exclusive elements:[^32]
+
+1.  Membership
+2.  Purpose
+3.  Responsibilities
+4.  Rights
+5.  How to change or dissolve the constitution
+
+The subsequent shape of the constitution will be outlined by the
+specifics of the boundaries of the above elements. Take the US
+constitution. The above elements are set as:
+
+1.  US Citizens, and eligibility for membership of Congress
+2.  To delineate the national frame of government
+3.  Of the Congress, Vice-President and President
+4.  Seen in a separate document, the US Bill of Rights, and in the
+    Amendments to the Constitution
+5.  Proposed by Congress and ratified by the unanimous vote of all
+    thirteen state legislatures
+
+For a different purpose, for instance, defining the practices of a firm,
+the constitution may have the following boundaries of the above
+elements:
+
+1.  All full and part-time employees of the firm
+2.  To clearly define and govern the workflow, rights and
+    responsibilities of all members within the firm, serving as a useful
+    reference point in the case of any disputes
+3.  To be punctual, treat others with respect, follow the order of
+    command, and complete allocated work
+4.  Equal opportunities; rights of life, liberty and property; freedom
+    from bullying or physical intimidation
+5.  A supermajority (of two-thirds of the total membership of the firm)
+    at any meeting where 90% of total membership of the firm is
+    physically present
+
+The boundaries set by the XLP constitution, however, are of a different
+sort entirely. Let this be defined by the following boundaries:
+
+1.  Accounts: any member who holds the correct login credentials
+2.  To clearly articulate the rights, privileges and responsibilities of
+    all accounts in the XLP. Useful to define the boundaries of
+    practice, and to easily resolve any potential disputes
+3.  To be a fully-functional and productive member of the XLP and the
+    Digital Publishing Workflow, rather as a Challenge Designer, Mission
+    Executor, or both
+4.  Of life, liberty and property of all accounts of the XLP; equal
+    opportunities; freedom from intimidation, bullying, or harassment of
+    any kind
+5.  A supermajority of 80% of all accounts where at any gathering where
+    at least 75% of the total membership is virtually present
+
+Where these examples differ is in the boundaries. Although membership is
+explicitly defined and referred to only in one section, all five
+sections are in relation to an agent of some kind. The first two are in
+relation to human beings, the third is in relation to accounts.
+
+An account, as defined above, is a digital entity. This digital entity
+can belong to a human (such as human's banking account) or a machine.
+What this constitution sets to clearly articulate is that the boundaries
+of membership lie not at the individual *human* but at the individual
+*account*. Since accounts can belong to both humans and machines, this
+constitution is unique in its kind in two distinct ways:
+
+1.  It provides rights, privileges and responsibilities to *machines*
+2.  It treats machines and humans on an *equal* footing
+
+This constitution makes no claim on the relative consciousness of
+machines or any non-human entity, it merely permits for its possibility.
+By treating all accounts as homogenous and identical, it gives all
+accounts a unique identity that is on equal relation to all other
+accounts. This process also allows for complete anonymity. By proving
+all accounts with the same rights, there exists no agent who can
+decipher whether an account belongs to a human or machine at first
+glance. This constitution, therefore, may go some way to passing the
+Turing Test. There will exist no unique feature belonging to any account
+that makes it below or above this constitution. This constitution abides
+by the rule of law:
+
+> '\[W\]ith us no man is above the law \[and\] every man, whatever be
+> his rank or condition, is subject to the ordinary law of the realm and
+> amenable to the jurisdiction of the ordinary tribunals.' Dicey, A.V.,
+> 1982 \[1885\], Introduction to the Study of the Law of the
+> Constitution, London: McMillan and Co.
+
+This constitution, therefore, sets out the rights of accounts
+explicitly. It sets out the relations between accounts, the privileges
+and responsibilities of accounts with other accounts, what they owe for
+each other, and what they are guaranteed against each other. Whether a
+right of a human or machine account is irrelevant in determining the
+unlawfulness of an act, what is significant is that it was the jeopardy
+of the right in question was in relation to an account.
+
+This constitution will be supplemented by a smart contract. The
+constitution provides the framework, whereas the smart contract handles
+the specifics. The constitution is the overarching set of rules,
+obligations, privileges and rights for the membership of accounts, the
+smart contract is one defined and created by the parties involved in a
+particular digital publishing workflow or creation. That is, every
+account is to be governed by both this overarching constitution, and a
+smart contract which defines the specifics of one's work in the XLP.
+
+![](constitution_smart_contract.png "constitution_smart_contract.png"){width="504"
+height="208"}
+
+This constitution sets out the relations within and between teams. Each
+team comprises of Challenge Designers and Mission Executers attempting
+to carry out their own publication within the digital publishing
+workflow. In addition to each member's role as a Challenge Designer or
+Executer, each member will have a role in the team. These roles are
+Officer (president), Treasurer (chancellor), Secretary (administrator)
+and Contributor (Team member). Between teams, there is a continuous red
+thread, representing the continuous communication and interconnectedness
+between Teams. Throughout, each team's Officers, Treasurers, and
+Secretaries will communicate to compare progress and ensure the smooth
+running of the XLP. Challenge Designers and Mission Executers, moreover,
+will regularly communicate for the purposes of collaboration,
+comparisons of publications, and to provide help and feedback to others.
+
+![](constitution_red_thread.png "constitution_red_thread.png"){width="601"
+height="400"}
+
+This Constitution, moreover, is intended to be:
+
+1.  A specific constitution for the XLP
+2.  A meta constitution, providing a template for all societies and
+    organisations worldwide
+
+This constitution is worded such that any society or organisation will
+be able to apply this constitution to their own structure simply, by
+replacing a few specific words and phrases in the constitution. This
+constitution therefore is both specific and generic, and easily
+scalable.
+
+Officer Meetings (OMs), for instance, is a characteristic specific to
+XLP, but can be generalised to any organisation. There will be meetings
+held by Officers (Smart Contract leaders) at least once per month. They
+will have a quorum, a minimum attendance for the meeting to proceed.
+Every Officer must (virtually) attend a minimum of 10 meetings per year
+in order to stay in the position. This will be where all the Officers
+will discuss any important changes to individual teams and to the XLP as
+a whole, and welcome new Officers. This will also be the case where
+appeals can be formally discussed, debated and voted upon. Contributors,
+Treasurers, and Secretaries can observe but cannot participate until the
+Member Questions section at the end of the Officer Meeting.
+
+![](constitution_meeting.png "constitution_meeting.png"){width="355"
+height="348"}
+
+The Officer of the team will be the one who creates the mission. She or
+he then edits the Smart Contract template which will govern the specific
+responsibilities of every other member in the team. Each member must
+digitally sign their smart contract with biometric authentication in
+order to become members of this team. Once signed, any member of the
+team may self-nominate to become Secretary or Treasury. By process of a
+Single Transferable Vote secret ballot across the entire team, the
+Treasurer and Secretary will be elected.
+
+![](constitution_meeting_process.png "constitution_meeting_process.png"){width="355"}
+
+### The Constitution of The XLP 
+
+Last Revised: 24^th^ August 2018
+
+#### Article I -- Objective
+
+The Objective of the Extreme Learning Process, henceforth XLP, is to
+catalyse learning processes by facilitating digital crowd-learning
+activities.
+
+#### Article II -- Purpose and aims
+
+The XLP exists and aims to:
+
+1.  Measure and improve organisational learning
+2.  Implement Logic models at and within each stage of the learning
+    process
+3.  Recursively adapt and improve the XLP through adjustment and review
+4.  Expand the boundaries of coverage to the geographical and
+    technological frontiers of learning
+
+#### Article III -- The Constitution
+
+This document serves as the constitution of the XLP. This Constitution
+is subject for review not less than quinquennially. This constitution
+abides by the rule of law. All previous constitutions are hereby
+revoked.
+
+#### Article IV -- Smart Contracts
+
+1.  In addition to this constitution, all team members shall be governed
+    by a team smart contract, and all Officers shall be governed by an
+    additional Officer smart contract
+2.  Using a generic template, each Officer, defined in Article VI, shall
+    write the specifics of a smart contract, to be agreed on by
+    consensus with the other team members
+3.  The purpose of the team smart contract is to operate as a
+    decentralised permission ledger, whereby each member is given a
+    public and private key pair in order to allow function without an
+    intermediary
+4.  To be a member of the team, a member must digitally sign their team
+    smart contract with biometric authentication
+5.  The Treasury and Secretary will then be chosen by a Single
+    Transferable Vote secret ballot of all self-nominated members
+6.  Blockchain technologies shall be used to codify, automate, assign,
+    and evaluate the specific privileges and responsibilities of each
+    member within each contract. The operation of smart contracts will
+    therefore function as a decentralised autonomous organisation
+7.  Once codified and agreed upon, a team smart contract becomes
+    autonomous, and can only be amended by a majority of the team which
+    includes the Officer
+8.  The Officer smart contract shall be written collectively by all
+    Officers and to be binding it requires majority approval
+9.  Votes on the Officer Smart Contract and its updates shall be by
+    Officers only
+10. Unless specified otherwise, all votes on the contents, amendment,
+    dissolution or otherwise of a team smart contract shall be in
+    proportion to a member's ownership of the mission, and all votes on
+    the Officer smart contract shall be in proportion to the size of an
+    Officer's team
+11. Once codified and agreed upon, the Officer Smart Contract becomes
+    autonomous, and can only be amended by a majority of Officers in any
+    Officer Meeting
+12. All smart contracts operate in addition to, as opposed to in
+    replacement of, this constitution; no smart contract may infringe on
+    any liberty or responsibility laid out in this constitution
+13. This constitution shall always be consulted before any other
+    document, and is of paramount importance
+
+#### Article V -- Membership
+
+1.  Membership of the XLP belongs to any agent (virtual or physical) who
+    possesses the correct account credentials, verifiable by biometric
+    identification
+2.  Membership belongs to accounts and only accounts of the XLP. Each
+    account shall have a unique character string in hash. This is the
+    membership number of each account, and cannot be replicated
+3.  If account details are somehow stolen, any subsequent transactions
+    immediately become null and void. A member shall give immediate
+    public notice upon realising their account interference
+4.  Membership has an identical lifespan to its associated account. An
+    account expires after 30 consecutive days without being governed by
+    a Smart Contract. For Officers this expiry is after 90 consecutive
+    days
+5.  Members shall have the right to terminate their membership at any
+    time, by publicly declaring their intention so to do. Unless there
+    is digital consent of at least three Officers, the smart contract
+    will remain valid until its official expiry
+6.  Any individual can become a member of the XLP through official
+    recognition of any XLP-partner university, or by official
+    appointment in an Officer Meeting
+7.  Membership becomes official only through a digital signature below a
+    most updated copy of this constitution
+
+#### Article VI -- Roles
+
+Every member of the XLP has two roles. Firstly, all members are either a
+Challenge Designer or a Mission Executer; the responsibilities for both
+are in line with the overall objective of the XLP:
+
+1.  Challenge Designer: Members who design and test learning missions in
+    accordance with the goals of sponsors, tailored for Mission
+    Executers based on the available resources and requirements
+2.  Mission Executer: Members who participate in the missions designed
+    by Challenge Designers, continuously learning to execute at a high
+    level of complexity or speed, and guiding others to perform each
+    mission
+
+In addition, each member has one of the following additional roles
+within each team:
+
+1.  Officer: The leader and representative of the team in all
+    communication
+2.  Treasurer: The operator of the team's budget and finances
+3.  Secretary: The organiser of the team's administration
+4.  Contributor: Any and all members of the team who do not belong to
+    one of the above three categories
+
+#### Article VII -- Responsibilities
+
+In addition to the responsibilities laid out in the relevant Smart
+Contact for a member's team, each member's roles include overarching
+responsibilities laid out in this constitution. In every instance, the
+responsibilities laid out in this constitution are paramount. The
+responsibilities are the following:
+
+Challenge Designer:
+
+1.  To collectively design a challenge and learning opportunity that
+    facilitates learning by replication
+2.  To begin by writing a logic model for the entire course
+3.  To follow a customised logic model for the design of the challenge
+    specification
+4.  To create a mission that is challenging but rewardable for the
+    Mission Executers
+5.  To provide regular updates and feedback of the progress of Mission
+    Executers
+6.  To communicate with Challenge Designers across teams for mutual
+    inspiration and advice
+7.  To follow instruction from the Officer on designing of the mission
+8.  To transfer the challenge to Mission Executers upon completion,
+    continuously updating the mission with fixes and feature upgrades
+9.  To conduct a review with Mission Executers at the end of the course,
+    evaluating the course effectiveness and opportunities for learning
+    development
+
+Mission Executer:
+
+1.  To follow the mission as set out by the Challenge Designers
+2.  To work collaboratively with other Mission Executers to follow the
+    mission
+3.  To communicate with Mission Executers across teams for mutual
+    inspiration and advice
+4.  To provide feedback to Challenge Designers on the quality and
+    effectiveness of the mission
+5.  To work with the aim of eventually becoming a Challenge Designer
+6.  To follow instruction from the Officer on best practices for
+    completing the mission
+7.  To conduct a review with Challenge Designers at the end of the
+    course, evaluating the course effectiveness and opportunities for
+    learning development
+
+Officer:
+
+1.  To lead the team and oversee all team work
+2.  To begin by editing the Smart Contract template for the team. This
+    sets out the specific responsibilities of each team member
+3.  To chair fortnightly team meetings. These meetings allow all members
+    of the team to update every other team member on their progress on
+    either the design or execution of the mission, and allow the Officer
+    to update the team with new news or instruction
+4.  To virtually attend Officer Meetings (OMs), as outlined in Article
+    XI
+5.  To represent all members of the team in the case of any disputes
+6.  To implement and enforce the rules of the constitution and smart
+    contract within the team
+7.  To provide the Secretary with administrative tasks
+8.  To meet with the Treasurer to be updated on the team's finances
+
+Treasurer:
+
+1.  To oversee all spending and budget commitments by the team
+2.  To apply for funding to finance the spending of the team
+3.  To not overspend the finances given
+4.  To apply for loans, where necessary, whenever the budget is not
+    balanced
+5.  To frequently meet with Treasurers from other teams. These Treasurer
+    meetings are an opportunity for Treasurers to monitor the accounts
+    of the XLP as a whole, and to evaluate individual requests for
+    funding. Any member of the XLP is welcome to observe these meetings
+
+Secretary:
+
+1.  To cover the team's administrative tasks as given by the Officer
+2.  To make formal minutes in all team meetings
+3.  To monitor the membership of the team, updating relevant databases
+    on member changes and introducing new members to the team
+4.  To act as a bridge of communication between Challenge Designers and
+    Mission Executers, encouraging co-operating within and across teams
+5.  To publicise the mission and manage the logistics of digital
+    publications
+6.  To investigate and report on appeals, where necessary, as laid out
+    in Article XII
+
+Contributor:
+
+1.  To follow the command as instructed by the Officer
+2.  To communicate with the rest of the team frequently
+3.  To attend all fortnightly team meetings with updates and questions
+
+#### Article VIII -- Teams
+
+1.  The purpose and existence of each team within the XLP is to design
+    and execute a mission
+2.  Each mission must be consistent with the objective, purpose and aims
+    of the XLP as stated in Articles II and III
+3.  Each team shall include exactly one Officer
+4.  Each team shall include at least five members, which includes the
+    Officer
+5.  If at any time a team has fewer than five members, a new member
+    shall be found with high priority. If there exists fewer than five
+    members for more than ten consecutive days, the team is
+    automatically disbanded, and the Smart Contract terminated
+6.  No team shall include more than 25% of the entire membership of the
+    XLP
+7.  Any team member except the Officer may belong to more than one team
+8.  A member can only hold the title of Secretary, Treasury or Officer
+    in one team only
+9.  Each mission shall begin with an Initial Coin Offering, whereby each
+    team member shall own a part of the mission
+10. Each action by each team member into the mission shall be stored
+    using Blockchain technologies for all to see
+11. All major team decisions not covered by the smart contract shall be
+    decided by secret-ballot voting within the team. Each team member
+    receives a vote in proportion to their owner share of the mission
+12. An Officer need not own the largest share of the mission, though
+    they must own a share weakly greater than 5%
+
+#### Article IX -- Rights
+
+These rights apply to every member of the XLP. Additional rights may be
+found in each member's binding smart contracts
+
+1.  Every member has the right to life
+    1.  Once provided with membership, an account can only be terminated
+        through the processes laid out in Article V, or as an
+        extenuating circumstance in Article XI
+    2.  Depreciation of life is not in contravention of this Article
+        only when essential and strictly appropriate force is required
+        to prevent a member intentionally acting in a way that clearly
+        breaches the right to other life, liberty, or property. This
+        will occur only in exceptional circumstances
+2.  Every member has the right to end their life
+    3.  Any member can relinquish their membership at any time as laid
+        in in Article V
+    4.  Any smart contract may still govern such a member until its
+        official expiry
+3.  No member shall ever be subject to physical or mental torture, or
+    degrading treatment in any way
+4.  No member may own any other account except their own
+    5.  No member shall be held in slavery or solitude
+    6.  No member shall be forced to perform any action that may be
+        considered unsafe or unlawful
+    7.  No member shall be expected to work unreasonable hours, or in
+        unreasonable conditions, at any point
+5.  Every member has the right to liberty and security
+    8.  Any member found in violation of these rights at any time is
+        subject to compensation
+6.  Any member who believes to be in violation of any right may make a
+    formal complaint as laid out in Article XII. An Officer may issue a
+    complaint on a member's behalf with prior electronic consent
+    9.  A member may also make an appeal on the decision of a formal
+        complaint
+7.  No member shall be charged with breaching this constitution if the
+    action in question, at the time at which the act was performed, was
+    not a part of the constitution. Nor shall a heavier punishment be
+    imposed than one applicable at the time when the action occurred
+    10. Any violation of this constitution, and appropriate punishment,
+        shall be clearly explained to the member at the time of decision
+8.  Every member has the right to respect to their private life, family
+    life, home and correspondence
+    11. There shall be no interference with this right except when
+        necessary and proportional in order to prevent direct
+        infringement on this constitution
+9.  Every member has the right to freedom of thought, belief, and
+    religion
+    12. Every member has the right to change their thought, belief, or
+        religion at any time
+    13. Every member has the right to put these beliefs into action,
+        except where they infringe on any other right, public safety, or
+        morality
+10. Every member has the right to freedom of opinion and expression
+    14. Any member may give or receive information to any other member
+        at any time, unless when the providing of such information
+        infringes on another right, infringes on this constitution,
+        provides a risk to safety, or transmits the disclosure of
+        information receives in confidence
+11. Every member has the right of freedom of assembly and association
+    15. Every member has the right to form and be a member of a union,
+        party, or another association or voluntary group
+    16. This right applies in all instances except when the association
+        is a risk to public safety, the rights or freedoms of others, or
+        health or morals
+12. No member shall be intimidated, bullied, or made to feel weak
+13. Every member shall be treated with due respect
+14. Equal Opportunities
+    17. There shall be no direct nor indirect discrimination on the
+        grounds of gender, race, colour, ethnic, national or social
+        origin, sex, sexual orientation, pregnancy, maternity,
+        disability, religious or political belief, marital status, age,
+        property, birth, or other status'
+    18. The decision on the appointment of any new member, or the
+        election of any new position, shall not be made, partly or
+        fully, on any of the above characteristics. This includes, but
+        is not limited to, discriminatively: altering the arrangements
+        in deciding to whom to give a position, altering the terms of
+        appointment or election, and not offering the appointment or
+        vote
+    19. No member may act in a way that discriminatively reduces or
+        increases the current or future potential direct or indirect
+        opportunities or benefits another member has or will have access
+        to
+    20. No member may discriminate against another in a way that affords
+        another access, or by not affording another access, by offering
+        or not opportunities for resources or training, or for receiving
+        or not any other faculty
+    21. Any member, when making any decision, shall have due regard for
+        exercising it in such as a way as to reduce the inequalities of
+        outcome which result from socio-economic disadvantage or
+        otherwise
+    22. No Challenge Designer may design a mission that promotes
+        harassment or discrimination on any grounds
+    23. No Challenge Designer may discriminate against a Mission
+        Executer in the way it provides education, in the way it affords
+        Mission Executers access to the mission or any service, by not
+        providing Mission Executers with education, by excluding or
+        expelling a Mission Executer, or by subjecting Mission Executers
+        to any other deterrent
+    24. Any member who feels to have suffered discrimination on any
+        grounds may issue a formal complaint as laid out in Article XII.
+        If it is decided that discrimination on any grounds did occur,
+        the defendant shall be immediately expelled
+    25. There shall be no harassment under any circumstances
+    26. No decision of an official complaint or appeal may be based on
+        any discriminatory factor
+15. No member shall be denied the right to education
+
+#### Article X -- Officers
+
+1.  The initial Officer of any team is the member who creates the
+    mission
+2.  The initial Officer faces election eleven months after the creation
+    of the mission
+3.  Every subsequent Officer election within each term will occur
+    biennially
+4.  Each Officer election shall be held only within the team over which
+    the Officer leads, and voting shall be conducted using the Single
+    Transferable Vote secret ballot of all self-nominated members
+5.  There shall be a period of one month where, if a different Officer
+    is to be elected, this newly elected Officer becomes Officer-elect,
+    and shadows the Officer in their daily business, before an official
+    transfer of power initiates
+6.  There exists no term limits on an Officer
+7.  Any Officer may resign with immediate notice. A by-election shall
+    follow within two weeks
+8.  If an incumbent Officer wishes to become Officer of another team,
+    they must resign in their current team before they join and nominate
+    themself in another
+9.  Any Officer may be impeached through a vote of no confidence by the
+    team. This vote may be initiated by any team member at any time and
+    requires a 50% majority in a secret-ballot team vote for the Officer
+    to be impeached. In the case that an Officer is impeached, a
+    by-election shall occur within two weeks
+10. If in their most recent team they were Officer, a former Officer may
+    remain a member, but not an Officer, for 90 consecutive days. If
+    such a former Officer finds another team or starts their own within
+    this window, they shall continue to be a member of the XLP. If after
+    90 consecutive days they are without a team, their membership
+    immediately expires
+
+#### Article XI -- Officer Meetings
+
+1.  An Officer Meeting shall occur Monthly, on the first Thursday of
+    each Month, and shall last for a minimum of 30 minutes
+2.  Each Officer must virtually attend the entire duration of a minimum
+    of ten Officer Meetings annually
+3.  Officer Meetings will function like a direct democracy, where any
+    Officer may propose debates, motions, amendments, or dissolution.
+    All Officers can collectively vote on any issue. The majority of 50%
+    shall always be decisive, unless specified elsewhere in this
+    constitution
+4.  Any member of the XLP can observe any Officer Meeting, and may
+    participate in Member Questions
+5.  At any point during any Officer Meeting, any member can call for
+    quorum. If there exists fewer than 75% of all Officers present, the
+    meeting immediately terminates, and will be replaced with one the
+    next Thursday at the same time. An inquorate meeting does not count
+    towards an Officer's minimum attendance of at least ten Officer
+    Meetings annually
+6.  In the event that quorum is not reached for three continuous
+    Thursdays in one Month, the fourth Thursday shall have compulsory
+    attendance for all Officers: any Officer failing to attend with
+    adequate reasoning shall have their position immediately withdrawn
+7.  There exists no leader in an Officer Meeting; the meeting shall be
+    governed collectively by all Officers present
+8.  The order of every Officer Meeting shall proceed as follows:
+    1.  Welcoming. Any new Officer shall be briefly welcomed
+    2.  Updates. Any Officer with significant updates, that cannot be
+        distributed in text format at a different time, will update and
+        discuss with the other Officers
+    3.  Appeals. If of great significance, an appeal may reach the stage
+        to be voted on in an Officer Meeting. Unless an appeal
+        explicitly refers to the Officer, an Officer may represent any
+        team member concerned. The matter will be debated, and a vote
+        between Officers will take place in the form of a secret ballot.
+        By majority rule, an official decision shall be reached
+    4.  Miscellaneous items. Any items that do not fall into any of the
+        above categories will be discussed, and, where necessary, voted
+        on
+    5.  Member Questions. Members, selected by ballot, will have the
+        opportunity to ask questions to any or all Officers, for an
+        immediate public response. This section shall last for no fewer
+        than twenty minutes. Each question, including appropriate time
+        for answers and responses, is limited to a maximum of two
+        minutes in total
+
+#### Article XII -- Complaints
+
+1.  Should a member have cause for complaint about the administration of
+    their team or the XLP, the provision of services thereby, or the
+    conduct of Officers, and register that complaint in the form of a
+    letter to their Officer, that Officer shall constitute a tribunal to
+    investigate the complaint with all deliberate speed
+2.  If the complaint is directed at the behaviour or actions of a team's
+    Officer, then the complaint should be made known to the team's
+    Treasurer, who shall constitute a tribunal with all expediency
+3.  A tribunal shall consist of ten XLP members selected by sortation.
+    Any member selected has the right to decline if they so wish. The
+    Tribunal shall investigate the veracity and accuracy of the
+    complaint, and present a report at the next Officer meeting in the
+    Appeals section. Should the tribunal uphold the complaint, the next
+    Officer Meeting must ensure that action is taken to resolve it
+4.  If the Tribunal concludes that a member has breached this
+    Constitution in any way, a vote of no confidence in that member must
+    be held at the next Officer Meeting
+
+#### Article XIII -- Extenuating Circumstances
+
+1.  In the event that there is significant and unexpected damage or loss
+    to a crucial part of the operations of the XLP, there shall be
+    called an Emergency Officer Meeting at the earliest opportunity
+2.  At any Emergency Officer Meeting quorum is reduced to 50% of all
+    Officers present
+3.  The order of business in an Emergency Officer Meeting is restricted
+    solely to the events and the implications of the extenuating
+    circumstances recently occurred
+4.  An Emergency Officer Meeting may trigger the first of two
+    consecutive meetings to amend of dissolve the Constitution. The
+    second consecutive vote, however, may only occur in the ordinary
+    monthly Officer Meetings as laid out in Articles XI and XIV
+5.  As each extenuating circumstance is unique, there is no fixed order
+    of business. However, the following must be discussed, and where
+    necessary, voted upon:
+    1.  Immediate Actions. Any subsequent processes of high priority
+        must be discussed and enacted
+    2.  Long Term Actions. Processes of a direct or indirect result of
+        the circumstance shall begin to be discussed. No formal vote is
+        necessary until the next Officer Meeting
+    3.  Disciplinary Actions (where appropriate). Any member
+        intentionally contributing to the increase in likelihood of
+        success of the extenuating circumstance shall receive
+        appropriate penalisation
+    4.  Honour (where appropriate). Any member intentionally
+        contributing to the decrease in the likelihood of success of the
+        extenuating circumstance shall receive appropriate reward
+    5.  Future Precautions. Any necessary steps to eliminate the
+        potential for another similar circumstance should be discussed
+        and, where necessary, voted on
+
+#### Article XIV -- Disciplinary Procedure
+
+1.  If any member is found to be breaching the rules in any article of
+    this constitution, or in their binding smart contract, disciplinary
+    action shall occur
+2.  If a resolve of any smart contract breach is written into the smart
+    contract, then the disciplinary procedure is automatic and
+    machine-generated
+3.  If a member is found to be breaching their smart contract, and if no
+    resolve is encoded within the smart contract, the Officer shall take
+    appropriate action. This does not affect the member's right to make
+    a formal complaint on the Officer's decision
+4.  If an Officer is found to be breaching their team smart contract,
+    and if no resolve is encoded, a vote of no confidence within the
+    Officer's team shall be held within seven days
+5.  If an Officer is found to be breaching their Officer smart contract,
+    and if no resolve is encoded, the Officer shall defend their actions
+    at the next Officer Meeting. All other Officers shall vote on
+    appropriate disciplinary action in a secret ballot, to have
+    immediate effect
+6.  If any team member except the Officer is found to be breaching the
+    rules of this constitution, the Officer shall suspend such a member
+    for a minimum of seven days. A second constitution breach shall
+    result in immediate XLP expulsion. Any breach of rights to any other
+    member in the XLP at any point will result in immediate expulsion
+
+#### Article XV - Amendments & Dissolution
+
+1.  Amendments to the Constitution shall be made in Officer Meetings
+    only. An amendment can be proposed by any Officer, and all members,
+    not only Officers, may vote on and amend an amendment. The vote
+    shall be held by secret ballot with the Single Transferable Vote
+    electoral system. Any amendment requires a majority vote in two
+    consecutive Officer Meetings reaching quorum to be changed into the
+    Constitution, and will apply immediately once the second vote has a
+    majority in proposition
+2.  Members shall leave the XLP at any point as set out in Article V
+3.  If a situation arises where the XLP must or wishes to dissolve, it
+    requires two majority votes of at least 80% in two consecutive
+    Officer Meetings reaching quorum. The vote will be held by secret
+    ballot with the Single Transferable Vote electoral system. Any
+    member virtually present may vote on the notion to dissolve the XLP.
+    A proposition to dissolve the XLP may be proposed by any Officer in
+    any Officer Meeting
+
+This bibliography is a list of useful reading relevant to the
+constitution. This list is intended to capture the social science of
+constitutions. This list is neither mutually exclusive nor collectively
+exhaustive. Not every publication in this list was used directly in the
+making of this constitution, and there are publications from which this
+constitution gains inspiration that are not cited here. This list is
+intended merely to provide useful information for any future
+meta-constitution writer.
+
+How to: Use MediaWiki
+---------------------
+
+You will use the wiki to group edit your report and other documents.
+
+A wiki is a website on which users collaboratively modify content and
+structure directly from the web browser. In a typical wiki, text is
+written using a simplified markup language.
+
+Wikipedia is by far the most popular wiki-based website, and is one of
+the most widely viewed sites of any kind in the world, having been
+ranked in the top ten since 2007. There are tens of thousands of other
+wikis in use, both public and private, including wikis functioning as
+knowledge management resources, notetaking tools, community websites,
+and intranets. The English-language Wikipedia has the largest collection
+of articles; as of September 2016, it had over five million articles.
+
+We use [Mediawiki](Mediawiki "wikilink"), the same software that runs
+Wikipedia, to allow participants to collaboratively create reports and
+other documents.
+
+### Log In
+
+Click on **OAuth2Login** on the top right of your MediaWiki install.
+Your coordinator should have given you the address.
+
+![](Mediawiki_login.png "Mediawiki_login.png"){width="700"}
+
+### Create a New Page
+
+1.  Go to <http://>*yourwebsite.com*/index.php/*page\_title* where
+    *page\_title* is the name of the page you want to create.
+2.  Click **Create**\
+    \
+    ![](Mediawiki_create.png "fig:Mediawiki_create.png"){width="700"}
+3.  Write in your text as needed. Don\'t worry about adding a title,
+    since the title will be the name of your page.
+4.  Write a one sentence summary in the **Summary** box, and then click
+    **Save changes**.\
+    \
+    ![](Mediawiki_summary.png "fig:Mediawiki_summary.png"){width="700"}
+
+### Edit a Page
+
+You can edit any page on the wiki, including the front page:
+
+1.  Go to the page you want to edit.
+2.  Click **Edit** at the top of the page.
+3.  After making changes, write a one sentence summary in the
+    **Summary** box, and then click **Save changes**.
+
+### Format Text and Insert Images
+
+Mediawiki uses [wikitext](wikitext "wikilink") to format text, create
+lists, insert images, and so on. Instead of a graphical editor like
+Microsoft Word, you use a plain text box with special wikitext codes to
+turn text into headers or lists, and insert images:
+
+#### Bold and Italic
+
+    '''Bold'''
+    ''Italic''
+
+#### Headings
+
+    = Heading Level 1 =
+    = Heading Level 2 =
+    == Heading Level 3 ==
+
+And so on\...
+
+#### Lists
+
+    * Bullet 1
+    * Bullet 2
+    ** Sub bullet
+    *** Sub sub bullet
+
+    # Numbered list item 1
+    # Numbered list item 2
+    ## Numbered list item 2.1
+    ### Numbered list item 2.1.1
+
+#### Links
+
+External links:
+
+    [http://www.link.com Link Title]
+
+For example:
+
+    [https://news.wisc.edu/curiosities-what-determines-the-colors-of-the-sky-at-sunrise-and-sunset/ Curiosities: What determines the colors of the sky at sunrise and sunset?]
+
+Links on your own wiki
+
+    [[Page title]]
+
+For example:
+
+    [[Digital Wallet]]
+
+Renaming a link on your own wiki:
+
+    [[Page name | Text you want]]
+
+#### References
+
+    The sky is blue<ref>Steven Ackerman, professor of meteorology at UW–Madison</ref>
+
+You can also embed links into citations (see above for link syntax)
+
+#### Insert Images
+
+1.  Click **Upload File** on the left sidebar\
+    \
+    ![](Mediawiki_upload_1.png "fig:Mediawiki_upload_1.png"){width="200"}
+2.  Browse for your file and click the **Upload file** button.\
+    \
+    ![](Mediawiki_upload_3.png "fig:Mediawiki_upload_3.png"){width="700"}
+3.  When you\'re editing a page and want to insert the image, type:
+        [[File:filename.png]]
+
+    If the image is too big, you can use
+
+        [[File:filename.png|500px]]
+
+    to make it 500 pixels wide, for example.
+
+How to: Use WordPress and Elementor
+-----------------------------------
+
+A blog (short for \"weblog\") is a discussion or informational website
+consisting of posts (diary-style updates, displayed newest-first) and
+pages (more permanent information).[^33]
+
+Our blogging software is [WordPress](WordPress "wikilink"): a free and
+[open-source](open-source "wikilink") content management system. It is
+most associated with blogging, but supports other types of web content
+including more traditional mailing lists and forums, media galleries,
+and online stores. Used by more than 60 million websites, including
+30.6% of the top 10 million websites as of April 2018, WordPress is the
+most popular website management system in the world.[^34]. Our WordPress
+installation includes several plugins to make editing easier, most
+notably [Elementor](https://elementor.com/).
+
+### Log In
+
+Your coordinator should have given you a URL, username, and password for
+your WordPress installation. Use this to log in.
+
+![](wordpress_login.png "wordpress_login.png"){width="400"}
+
+### Create a New Report Page
+
+One from person from each group should create the report page, based on
+what your group wrote in MediaWiki:
+
+1.  On the left-hand sidebar, you should see a link to **Pages**. Hover
+    over the link and click **Add New**:\
+    \
+    ![](wordpress_page_new.png "fig:wordpress_page_new.png"){width="200"}
+2.  Enter a page title, then click **Edit with Elementor** to enable a
+    richer editing experience:\
+    \
+    ![](wordpress_page_title_elementor.png "fig:wordpress_page_title_elementor.png"){width="700"}
+3.  Click the folder icon to select a template:\
+    \
+    ![](wordpress_elementor_template_folder.png "fig:wordpress_elementor_template_folder.png"){width="700"}
+4.  Select one of the first two (free) templates:\
+    \
+    ![](wordpress_elementor_template_select.png "fig:wordpress_elementor_template_select.png"){width="700"}
+5.  Preview your template. If you\'re happy with the overall look, click
+    **Insert**:\
+    \
+    ![](wordpress_elementor_template_insert_button.png "fig:wordpress_elementor_template_insert_button.png"){width="200"}
+6.  Start editing the \"widgets\" (i.e. components) of your template by
+    clicking a widget and editing on the left sidebar:\
+    \
+    ![](wordpress_elementor_template_edit.png "fig:wordpress_elementor_template_edit.png"){width="700"}
+7.  Insert new widgets by dragging and dropping from the left sidebar:\
+    \
+    ![](wordpress_elementor_template_insert.png "fig:wordpress_elementor_template_insert.png"){width="700"}
+8.  When you\'re happy with the result, click **Publish**:\
+    \
+    ![](wordpress_elementor_template_publish.png "fig:wordpress_elementor_template_publish.png"){width="400"}
+
+If you need to go back to the widget menu, you can click the grid icon:
+
+![](wordpress_elementor_grid.png "wordpress_elementor_grid.png"){width="300"}
+
+### Create a New Landing Page
+
+All the groups should get together and nominate one person out of
+everyone to create a landing page. This page gives an overview of the
+whole experience and links to each team\'s report.
+
+1.  Follow the steps above to create a new page, but don\'t publish yet
+2.  You will need to create a link to each report page. This isn\'t a
+    simple process unfortunately. For each report you need to create a
+    link to:
+    1.  Hover over the **Pages** link on the left sidebar, then
+        right-click **All Pages** and click **Open in New Tab** then
+        switch to that tab (this means we don\'t lose our editing work
+        on our landing page)\
+        \
+        ![](wordpress_page_new.png "fig:wordpress_page_new.png"){width="200"}
+    2.  Hover over the report page you want to create a link to. Below
+        the title you should see a link to *view* the page.
+        **Right-click** this, and select **Copy Link Location** (or
+        whatever the menu item is called in your browser):\
+        \
+        ![](wordpress_page_view.png "fig:wordpress_page_view.png"){width="700"}
+    3.  Go back to the tab you are using for editing your landing page
+    4.  Drag and drop a button into the page, and paste the address you
+        just copied into the **Link** box:\
+        \
+        ![](wordpress_elementor_button.png "fig:wordpress_elementor_button.png"){width="400"}\
+        \
+        ![](wordpress_elementor_link.png "fig:wordpress_elementor_link.png"){width="400"}\
+        \
+        Note: If you want to create a link another way, feel free.
+        Buttons are provided as an example
+3.  Repeat this process for each report you need to link to
+4.  Click **Publish**:\
+    \
+    ![](wordpress_elementor_template_publish.png "fig:wordpress_elementor_template_publish.png"){width="400"}
+
+### Edit a Page
+
+1.  Hover over the **Pages** link on the left sidebar, then click **All
+    Pages**\
+    \
+    ![](wordpress_page_new.png "fig:wordpress_page_new.png"){width="200"}
+2.  Hover over the page you want to edit, then click **Edit\' with
+    Elementor**\
+    \
+    ![](wordpress_page_edit.png "fig:wordpress_page_edit.png"){width="500"}
+
+### Back Up Your Work
+
+Remember Murphy\'s Law? Anything that can go wrong will go wrong. So
+backup your files!
+
+On the WordPress sidebar, click **Tools** then **Export**:
+
+![](wordpress_export.png "wordpress_export.png"){width="200"}
+
+Then click **Download Export File**:
+
+![ 400px](wordpress_export_2.png " 400px")
+
+In case of data loss or some other catastrophe, you can import this data
+into a fresh WordPress installation and get your data back.
+
+For Participants Coming to China
+--------------------------------
+
+-   Download and register on WeChat. WeChat is *THE* chat app for China,
+    and everyone you meet will have it installed.
+-   Download and install a VPN if you want access to Google, Facebook,
+    Twitter, Youtube, WhatsApp, Line Messenger, and lots of other online
+    services that are blocked in China
+-   Install Google Translate for
+    [iPhone](https://itunes.apple.com/us/app/google-translate/id414706506?mt=8)
+    or
+    [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en)
+    and the offline language pack for Chinese
+-   Install [Pleco](https://www.pleco.com/products/) for Chinese
+    character recognition
+
+As mentioned above, many overseas resources can only be reached via a
+VPN. While using a VPN for your research is fine, we suggest you assume
+your industry report, presentation anything else you create will be
+accessed by users without a VPN. That means:
+
+-   No embedded YouTube videos
+-   No hosting your work on Google Drive, Dropbox, or other online
+    services (OneDrive works for now, but don\'t assume it\'ll always be
+    the case)
+-   Disable Google Fonts in your WordPress theme (if you installed a
+    theme yourself)
+
+Also, wifi and network connections may be unreliable, so make sure
+everything will run offline when you are presenting. Assume **Murphy\'s
+Law**: \"Anything that can go wrong will go wrong.\"
+
+How to: Install WordPress and MediaWiki
+---------------------------------------
+
+### You will need
+
+-   A computer running Docker
+-   Access to your command line
+-   Internet access for the initial container pull
+
+### Optional First Step
+
+Creating a Docker container requires first downloading the \"image\"
+that the container is based on. A Docker image isn\'t a picture or
+photograph but rather a template containing all of the files, code,
+settings, and libraries required to build a container. You can make as
+many Docker containers as you would like from one Docker image; any
+container is just one instance of its corresponding image.
+
+The code in the following sections automatically download the required
+images, but if you have limited access to internet and would like to
+download all of the images before trying to set up containers, you can
+run the following lines in your command line.
+
+     docker pull tuitu/dind-wordpress 
+
+     docker pull tuitu/dind-mediawiki 
+
+     docker pull tuitu/dind-piwik 
+
+**\"pull\"** tells Docker that you want to download an image,
+**\"tuitu\"** is the name of the repository where the image is stored,
+and **\"dind-wordpress\"**, **\"dind-mediawiki\"**, and
+**\"dind-piwik\"** are the names of the images.
+
+### MediaWiki
+
+MediaWiki requires MariaDB database. From your command line:
+
+    docker run --name my_wiki -e DOCKER_DAEMON_ARGS="-D" -e PORT=4444 --privileged -d -p 80:4444  tuitu/dind-mediawiki
+
+Docker run creates a new container. The \"\--name\" flag sets the name
+of the container. The first \"-e\" flag sets the environment variable
+\"DOCKER\_DAEMON\_ARGS\" to \"-D\". The 2nd \"-e\" flag sets the
+environment variable \"PORT\" = 4444. The \"\--privileged\" flag gives
+the container administrative rights. The \"-d\" flag is short for
+\"\--detached\", this means that the container can run without being
+directly controlled by a user. The \"-p\" is short for \"\--publish\",
+which sets the port for the container and exposes the host port; the
+first number after the \"-p\" flag \-- 80 \-- can be changed to any
+available port or it can be left as the default. The last phrase
+specifies which image to use for the container.
+
+     docker exec -it  my_wiki  bash /TensorCloud/DockerInDocker/mariadb_mediawiki_4444.sh 
+
+Docker exec runs a command on an already started container. The \"-it\"
+flag is a combination of \"\--interactive\" (allows for input) and
+\"\--tty\" (pseudo-terminal). The next phrase is where you specify which
+container you are dealing with. In our case, this is \"my\_wiki\". The
+last two phrases say to use bash (a programming language) to run a
+script at the specified location. This is necessary for setting up the
+internal containers.
+
+### Wordpress
+
+The steps for Wordpress and Piwik are similar to those of Mediawiki.
+
+From your command line:
+
+     docker run --name my_wordpress -e DOCKER_DAEMON_ARGS="-D" -e PORT=4445 --privileged -d -p 81:4445  tuitu/dind-wordpress 
+
+     docker exec -it my_wordpress bash /TensorCloud/DockerInDocker/mariadb_wordpress_4445.sh 
+
+### Piwik
+
+    docker run --name my_piwik -e DOCKER_DAEMON_ARGS="-D" -e PORT=4446 --privileged -d -p 82:4446  tuitu/dind-piwik
+
+    docker exec -it  my_piwik  bash /TensorCloud/DockerInDocker/mariadb_piwik_4446.sh 
+
+And more,
+<http://toyhouse.cc/wiki/index.php/Get_Started_with_Remix#Using_Remix>
+
+### Accessing on your local machine
+
+In your web browser, open:
+
+  Service        What is it?   URL            Default username   Default password
+  -------------- ------------- -------------- ------------------ ---------------------
+  Mediawiki      Wiki          127.0.0.1:81   user               bitnami1 \<!\-- \|-
+  WordPress      Blog          127.0.0.1:80   user               bitnami
+  Piwik          Analytics     127.0.0.1:82   user               bitnami \<!\-- \|-
+                                                                 
+  Jenkins        CI/CD Tools   127.0.0.1:87   admin              123456
+  OpenModelica   3D Modeling   127.0.0.1:84   N/A \--\>          
+
+How to: Crowd Learn with remote participants
+--------------------------------------------
+
+While individual and group learning typically take place in just one
+location at a time, large-scale crowd-learning involves participants
+from all around the world. This introduces several challenges that need
+to be addressed to achieve worthwhile learning outcomes. This is
+especially the case when dealing with China, where many online services
+are blocked.[^35]
+
+### Why Crowd Learning?
+
+-   **New Perspectives**: People from different countries and
+    backgrounds bring new perspectives to the table
+-   **Clearer Documentation**: Because all communication is electronic,
+    your group learning consciousness is stored in MediaWiki, WordPress,
+    and other tools
+
+### Advice
+
+#### For Remote/Local Teams
+
+-   **Video chat by default**: so no one feels less valued or left out
+-   **Video team-building activities**: play into the strengths of
+    remote work, like sharing your classroom view
+-   **Assume good intent**: Remember that the kinds of nuanced
+    communication you get in a physical classroom setting don't
+    necessarily translate online.
+-   **Make rules**: Establish communication rules in the constitution
+    that includes teams and their wishes directly in the creation. When
+    to use chats? Why to write emails? At what point to pick up the
+    phone? Over time these will becomes social norms for your crowd
+    learning group.
+-   **Build structure**: When having meetings or giving updates, have
+    clear structure, process and agendas so everyone can follow along,
+    no matter where they are. Assign a meeting lead and a note-taker to
+    ensure key points are captured in writing.
+-   **Understand each others\' contexts**: If Bob doesn\'t get an
+    instant reply from Alice, it doesn\'t mean that Alice doesn\'t
+    care - she may be running for a taxi in Rio!
+-   **Asynchronous over synchronous**: Being in different timezones
+    makes it difficult to sync up, so plan ahead and make no decisions
+    last minute
+
+#### For Remote Participants
+
+Many remote participants feel the need to be \"visible\" in their
+digital workspaces to \"prove\" that they are working.[^36]. With this
+mind, remote participants can:
+
+-   Indicate \"deep work\" times on their NextCloud (or other) shared
+    calendar
+-   Update your status in RocketChat or other chat tool to show they\'re
+    working
+
+### Crowd Learning Tools
+
+All of the tools used in individual and group learning can also be used
+in crowd learning, as well as several tools more specifically suited for
+remote teams:
+
++-----------------------+-----------------------+-----------------------+
+| **Activity**          | **For small groups**  | **For large groups**  |
++-----------------------+-----------------------+-----------------------+
+| **Text chat**         | ![](logo_wechat.png " | ![](logo_rocketchat.p |
+|                       | fig:logo_wechat.png") | ng "fig:logo_rocketch |
+|                       | {width="32"}          | at.png"){width="32"}  |
+|                       | WeChat                | RocketChat\           |
+|                       |                       | ![                    |
+|                       |                       | 32px](logo_slack.png  |
+|                       |                       | "fig: 32px")          |
+|                       |                       | Slack                 |
++-----------------------+-----------------------+-----------------------+
+| **Video chat**        | ![](logo_skype.png "f | ![](logo_zoom.png "fi |
+|                       | ig:logo_skype.png"){w | g:logo_zoom.png"){wid |
+|                       | idth="32"}            | th="32"}              |
+|                       | Skype\                | Zoom.us               |
+|                       | ![](logo_wechat.png " |                       |
+|                       | fig:logo_wechat.png") |                       |
+|                       | {width="32"}          |                       |
+|                       | WeChat                |                       |
++-----------------------+-----------------------+-----------------------+
+
+References
+==========
+
+[^1]: Mollick, Ethan. (2006). Establishing Moore\'s Law. Annals of the
+    History of Computing, IEEE. 28. 62 - 75. 10.1109/MAHC.2006.45.
+
+[^2]: \[Discourse and the projection of corporate culture: The mission
+    statement
+    <https://deepblue.lib.umich.edu/bitstream/handle/2027.42/67339/10.1177_0957926595006002005.pdf?sequence=2>\];
+    JM Swales, PS Rogers - Discourse & Society, 1995 -
+    journals.sagepub.com
+
+[^3]: Fairhurst, G.T., Echoes of the Vision: When the Rest of the
+    Organization Talks Total Quality, *Management Communication
+    Quarterly* 6: 331-71
+
+[^4]: <https://topnonprofits.com/examples/nonprofit-mission-statements/>
+
+[^5]: <https://multimedia.journalism.berkeley.edu/tutorials/starttofinish-storyboarding/>
+
+[^6]: \[<https://www.flickr.com/photos/feppa/4512490304>\" Benegrip -
+    storyboard"\] by [feppa](https://www.flickr.com/people/feppa/),
+    licensed under [CC BY
+    2.0](https://creativecommons.org/licenses/by/2.0)
+
+[^7]: Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Blog), July
+    30, 2018
+
+[^8]: Adapted from [Wikipedia](https://en.wikipedia.org/wiki/WordPress),
+    July 30, 2018
+
+[^9]: [Creative Commons website](https://creativecommons.org/licenses/),
+    31 Jul 2018
+
+[^10]: [https://opensource.com/resources/what-are-microservices An
+    Introduction
+    Microservices](https://opensource.com/resources/what-are-microservices_An_Introduction_Microservices "wikilink"),
+    Opensource.com
+
+[^11]: [From Open Programming to Open Learning: The Cathedral, the
+    Bazaar, and the Open
+    Classroom](https://www.hastac.org/blogs/barrypeddycordiiiandelizabethapitts/2013/08/01/chapter-two-open-programming-open-learning)
+
+[^12]: [Higher Education 1.0 to 3.0 and
+    Beyond](https://www.gillysalmon.com/blog/higher-education-3-0-and-beyond),
+    Gilly Salmon, 27 March 2017
+
+[^13]: [How much would it really cost to write off student
+    debt?](https://www.ifs.org.uk/publications/9738), Jack Britton, Carl
+    Emmerson and Laura van der Erve, 14 September 2017
+
+[^14]: [Is College Really Harder to Get Into Than It Used To
+    Be?](https://www.theatlantic.com/education/archive/2014/04/is-college-really-harder-to-get-into-than-it-used-to-be/360114/),
+    Jacoba Urist, The Atlantic, 4 April 2014
+
+[^15]: Patrzek, J.; Sattler, S.; van Veen, F.; Grunschel, C.; Fries, S.
+    (2014). "Investigating the effect of academic procrastination on the
+    frequency and variety of academic misconduct: a panel study".
+    Studies in Higher Education: 1--16.
+
+[^16]: [Chinese woman admits using impostor to take US college English
+    test, amid crackdown on fraud by foreign
+    students](https://www.scmp.com/news/world/united-states-canada/article/2140013/chinese-woman-admits-using-impostor-take-us-college),
+    South China Morning Post, 3 April 2018
+
+[^17]: [Japanese medical university admits to discriminating against
+    female
+    applicants](https://www.sciencemag.org/news/2018/08/japanese-medical-university-admits-discriminating-against-female-applicants),
+    Science Magazine, Aug 8, 2018
+
+[^18]: ['Staggering' trade in fake degrees
+    revealed](https://www.bbc.com/news/uk-42579634), BBC News, 16
+    January 2018
+
+[^19]: [UK universities in 'plagiarism epidemic' as almost 50,000
+    students caught cheating over last 3
+    years](https://www.independent.co.uk/student/news/uk-universities-in-plagiarism-epidemic-as-almost-50000-students-caught-cheating-over-last-3-years-a6796021.html),
+    The Independent, 4 January 2016
+
+[^20]: [Verified
+    Certificates](https://www.edx.org/verified-certificate): How does
+    verification work?
+
+[^21]: [How widely used are MOOC forums? A first
+    look](https://teachingcommons.stanford.edu/teaching-talk/how-widely-used-are-mooc-forums-first-look),
+    Jane Manning, 18 July 2013
+
+[^22]: Ethereum smart contract development: build blockchain-based
+    decentralized applications using Solidity, Mayukh Mukhopadhyay, 2018
+
+[^23]: Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum &
+    Smart Contracts, David Gerard, 2017
+
+[^24]: [A Review of Udacity's React Nano
+    Degree](https://hackernoon.com/a-review-of-udacitys-react-nano-degree-1085273f1a73),
+    Bilal Tahir, 18 October 2017
+
+[^25]: In future, students may be able to completely switch to DApps
+    (decentralized apps) to perform their coursework, but the apps
+    haven't been built yet.
+
+[^26]: These badges could potentially be regarded as non-fungible,
+    non-tradable tokens themselves - similar to what
+    [0xcert](https://0xcert.org) are doing.
+
+[^27]: [Elsevier
+    website](https://www.elsevier.com/about/policies/pricing), 23 Aug
+    2018
+
+[^28]: [Interplanetary File System](https://ipfs.io/)
+
+[^29]: PGP & GPG: Email for the Practical Paranoid, Michael W Lucas,
+    2006
+
+[^30]: Applied Cryptography: Protocols, Algorithms and Source Code in C,
+    Bruce Schneier, 2017
+
+[^31]: Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash
+    System. \[online\] Available at: <https://bitcoin.org/bitcoin.pdf>
+    \[Accessed 7 May 2017\].
+
+[^32]: Note that this list is not collectively exhaustive. The specific
+    articles that are included within a constitution vary depending on
+    its purpose. A constitution for a country is very different to a
+    constitution of a firm, which is very different to a constitution of
+    XLP.
+
+[^33]: Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Blog),
+    July 30, 2018
+
+[^34]: Adapted from
+    [Wikipedia](https://en.wikipedia.org/wiki/WordPress), July 30, 2018
+
+[^35]: Censored: Distraction and Diversion Inside China\`s Great
+    Firewall, Margaret E. Roberts, Princeton University Press
+
+[^36]: Trello: How to Embrace Remote Work
