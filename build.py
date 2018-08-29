@@ -1,29 +1,43 @@
 #!/usr/bin/env python3
 
-import re # Regular exps
+#### These are the main things you may want to edit! ####
+
+images_dir = "../xlp-manual/images/"
+
+#########################################################
+
 import argparse
+import subprocess
 from subprocess import call
 import os
 import shutil
 import time
+import tempfile
 
-parser = argparse.ArgumentParser()
-parser.add_argument("filename")
+# Set up arguments
+parser = argparse.ArgumentParser(description="Convert MediaWiki files to other formats")
+parser.add_argument("filename", help="The MediaWiki file you want to convert")
+parser.add_argument("--debug", action='store_true', default=False, help="Keep temporary files for debugging purposes and give verbose output")
+parser.add_argument("-t", "--to", default="pdf", help="Format you want to export to. Accepts any format accepted by pandoc. Default is PDF") # Untested!
 args = parser.parse_args()
 
-# wiki_url = 'http://toyhouse.cc:81/wiki/'
+## Define important variables
+images_dir = "../xlp-manual/images/"
+output_format = args.to
+pandoc = "/usr/bin/pandoc"
+
 input_file = args.filename
 md_file = input_file.replace("mediawiki", "md")
-pdf_file = input_file.replace("mediawiki", "pdf")
-pandoc_template = "eisvogel.latex"
+output_file = input_file.replace("mediawiki", output_format)
+buildsystem_dir = os.getcwd()
+resources_dir = buildsystem_dir+"/"+"resources"
 
 ########## Deal with images (which should already be on your machine)
 
-print("* Creating temp directory and copying over images")
-tempdir = "temp1"
-images_dir = "../images/"
+with tempfile.TemporaryDirectory() as temp_dir:  
+    print("* Creating temp directory",temp_dir,"and copying over images")
 
-shutil.copytree(images_dir, tempdir)
+shutil.copytree(images_dir, temp_dir)
 
 ########## Deal with the raw mediawiki file
 
@@ -44,16 +58,16 @@ f.close()
 ############# Now we can convert to Markdown
 
 print("* Converting to MarkDown for pre-processing")
-call(["pandoc", "--from=mediawiki", input_file, "-t", "markdown", "-o", tempdir+"/"+md_file])
+call(["pandoc", "--from=mediawiki", input_file, "-t", "markdown", "-o", temp_dir+"/"+md_file])
 
 print("* Changing to temp directory")
-os.chdir(tempdir)
+os.chdir(temp_dir)
 
 ### Add YAML header
 
 print("* Adding metadata header")
 
-header=open("../resources/header.yaml", "r").read() # header to string
+header=open(resources_dir+"/header.yaml", "r").read() # header to string
 
 # Change date to today
 
@@ -69,9 +83,22 @@ header = header.replace("$DATE", todaydate)
 with open(md_file, 'r') as original: data = original.read()
 with open(md_file, 'w') as modified: modified.write(header + "\n" + data)
 
-# Convert to PDF using modified eisvogel template (https://github.com/Wandmalfarbe/pandoc-latex-template)
-print("* Converting to PDF (this may take a while)")
-call(["/usr/bin/pandoc", md_file, "-o", "../"+pdf_file, "--toc", "--template", "firevogel", "--listings", "--pdf-engine=xelatex", "--top-level-division=chapter", "--toc-depth=3"])
+# Convert to output (default pdf) using modified eisvogel template (https://github.com/Wandmalfarbe/pandoc-latex-template)
+print("* Converting to", output_format, "(this may take a while)")
+
+pandoc_args = [md_file, "-o", buildsystem_dir+"/"+output_file, "--toc", "--template", "firevogel", "--listings", "--pdf-engine=xelatex", "--top-level-division=chapter", "--toc-depth=3"]
+# subprocess.Popen("/usr/bin/pandoc" + pandoc_args)
+
+pandoc_command = [pandoc]
+pandoc_command.extend(pandoc_args) # Add arguments to the command
+call(pandoc_command)
+
+# Clean up temp files (unless debug argument is passed)
+if args.debug == 0:
+	print("* Cleaning up temp directory")
+	shutil.rmtree(temp_dir)
+else:
+	print("* Leaving temp files at", temp_dir)
 
 print("* DONE!")
 
