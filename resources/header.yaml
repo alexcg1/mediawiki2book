@@ -16,4 +16,10 @@ header-includes:
 - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
 - \raggedbottom
 - \setlength{\linespread}{1}
+# - \setlength{\oddsidemargin}{3cm}
+# - \setlength{\evensidemargin}{2cm}
+# - \setlength{\oddsidemargin}{1cm}
+# - \setlength{\evensidemargin}{0cm}
+# - \usepackage[top=2cm, bottom=2cm, outer=1cm, inner=2.1cm, headsep=14pt]{geometry}
+# - \usepackage[outer=1cm, inner=2.1cm]{geometry}
 ---
