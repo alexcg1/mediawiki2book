@@ -11,6 +11,8 @@ titlepage-rule-color: "ffffff"
 listings-disable-line-numbers: True
 footer-left: "$DATE"
 toc-own-page: True
+CJKmainfont: Noto Sans CJK SC Regular
+CJKoptions: AutoFakeBold
 header-includes:
 - \usepackage{fvextra}
 - \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
