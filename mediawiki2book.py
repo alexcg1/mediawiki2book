@@ -78,36 +78,43 @@ else:
 with tempfile.TemporaryDirectory() as temp_dir:  
 	print("* Creating temp directory",temp_dir,"and copying images.....", end="", flush=True)
 
-shutil.copytree(images_dir, temp_dir)
+try:
+	shutil.copytree(images_dir, temp_dir)
+	print(ok_text)
+except:
+	print(warning_text)
+	print("Failed to copy images. Are you sure you have some?")
+	print("Creating temp directory anyway")
+	os.mkdir(temp_dir)
 
-print(ok_text)
+
 
 ########## Deal with the raw mediawiki file
 
 # Remove references section - they're all converted to footnotes anyway, so we don't need the title for an empty section
 
-# Safely read the input filename using 'with'
-with open(input_file) as f:
-	s = f.read()
-	# Get input file language
-	# try:
-	# 	lang = detect(s)
-	# 	print("* Detecting language..............................................", end="", flush=True)
-	# 	print("[ ",lang, " ]")
-	# except:
-	# 	pass
-
-with open(input_file, 'w') as f:
-	print("* Removing wiki-only stuff........................................", end="", flush=True)
-	s = s.replace("= Before Reading =", "")
-	s = s.replace("= References =", "")
-	f.write(s)
-
-f.close()
-
-print(ok_text)
-
-############# Now we can convert to Markdown
+# # Safely read the input filename using 'with'
+# with open(input_file) as f:
+# 	s = f.read()
+# 	# Get input file language
+# 	# try:
+# 	# 	lang = detect(s)
+# 	# 	print("* Detecting language..............................................", end="", flush=True)
+# 	# 	print("[ ",lang, " ]")
+# 	# except:
+# 	# 	pass
+# 
+# with open(input_file, 'w') as f:
+# 	print("* Removing wiki-only stuff........................................", end="", flush=True)
+# 	s = s.replace("= Before Reading =", "")
+# 	s = s.replace("= References =", "")
+# 	f.write(s)
+# 
+# f.close()
+# 
+# print(ok_text)
+# 
+# ############# Now we can convert to Markdown
 
 print("* Converting to MarkDown for pre-processing.......................", end="", flush=True)
 call(["pandoc", "--from=mediawiki", input_file, "-t", "markdown", "-o", temp_dir+"/"+md_file])
