@@ -1,4 +1,4 @@
-=dg What is XLP? =
+= What is XLP? =
 
 XLP stands for '''Extreme Learning Process''', a methodology that lets communities of learners design and conduct collaborative learning activities. Taking a look more closely at the name:
 
@@ -2459,3 +2459,5 @@ https://www.newtonproject.org/
 https://www.newtonproject.org/whitepaper/
 
 https://en.wikipedia.org/wiki/Turing_test
+
+[[Category: XLP]]
